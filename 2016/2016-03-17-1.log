@@ -1,0 +1,1570 @@
+[14:52:29] [Client thread/INFO]: Setting user: VideoGameSmash12
+[14:52:29] [Client thread/INFO]: (Session ID is token:dfa35026cb0741e7a3627bd8c09bd0a5:c3bca952cff34ea58ff589b273b4fbfc)
+[14:52:38] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:52:50] [Client thread/INFO]: Reloading ResourceManager: Default
+[14:53:17] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:53:17] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[14:53:17] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:53:20] [Thread-5/INFO]: OpenAL initialized.
+[14:53:20] [Sound Library Loader/INFO]: Sound engine started
+[14:53:33] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[14:54:10] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[14:54:12] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[14:54:12] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[14:54:15] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[14:54:15] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[14:54:15] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[14:54:15] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they値l be lost.
+[14:54:15] [Client thread/INFO]: [CHAT] You have no new mail.
+[14:54:15] [Client thread/INFO]: [CHAT] Welcome VideoGameSmash12 to the server!
+[14:54:15] [Client thread/INFO]: [CHAT] Server is currently closed to non-superadmins.
+[14:54:22] [Client thread/INFO]: [CHAT] [Server:markbyron] in any case, I've re-added some new ones
+[14:54:24] [Client thread/INFO]: [CHAT] Mac_OS_X - Opping all players on the server
+[14:54:24] [Client thread/INFO]: [CHAT] You are now op!
+[14:54:26] [Client thread/INFO]: [CHAT] [Server:markbyron] reopening server
+[14:54:27] [Client thread/INFO]: [CHAT] [Cool Crew] [LDR] [SA] < TheCool1Mike> Yeah, I saw
+[14:54:32] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: kek
+[14:54:33] [Client thread/INFO]: [CHAT] [ADMIN] TheCool1Mike [SA]: lol
+[14:54:33] [Client thread/INFO]: [CHAT] [ADMIN] SpeakerMaster [STA]: Alright.
+[14:54:33] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> Hey mark.
+[14:54:34] [Client thread/INFO]: [CHAT] [ADMIN] TheCool1Mike [SA]: That was quick
+[14:54:34] [Client thread/INFO]: [CHAT] markbyron - Opening the server to all players.
+[14:54:35] [Client thread/INFO]: [CHAT] xXSoliCraftXx joined the game
+[14:54:35] [Client thread/INFO]: [CHAT] MasterVelyk joined the game
+[14:54:36] [Client thread/INFO]: [CHAT] FuriousDestroyer joined the game
+[14:54:38] [Client thread/INFO]: [CHAT] ThunderSlayers joined the game
+[14:54:38] [Client thread/INFO]: [CHAT] [Server:TheCool1Mike] Welcome back c:
+[14:54:40] [Client thread/INFO]: [CHAT] PHP7 joined the game
+[14:54:41] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: Mark, hows the kids?
+[14:54:44] [Client thread/INFO]: [CHAT] Mac_OS_X - Opping all players on the server
+[14:54:44] [Client thread/INFO]: [CHAT] You are now op!
+[14:54:44] [Client thread/INFO]: [CHAT] < FuriousDestroyer> ok
+[14:54:46] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: jk
+[14:54:46] [Client thread/INFO]: [CHAT] THEBLAHBRO joined the game
+[14:54:49] [Client thread/INFO]: [CHAT] Lyreas joined the game
+[14:54:51] [Client thread/INFO]: [CHAT] CreeperSeth joined the game
+[14:54:51] [Client thread/INFO]: [CHAT] < ThunderFreddy> thx
+[14:54:51] [Client thread/INFO]: [CHAT] <PHP7> ?
+[14:54:51] [Client thread/INFO]: [CHAT] <MasterVelyk> do /warp pvp to try to fight me >=)
+[14:54:51] [Client thread/INFO]: [CHAT] Mac_OS_X - Setting everyone's Worldedit block modification limit to 2500.
+[14:54:51] [Client thread/INFO]: [CHAT] Matta joined the game
+[14:54:52] [Client thread/INFO]: [CHAT] <THEBLAHBRO> eh
+[14:54:52] [Client thread/INFO]: [CHAT] Goseale joined the game
+[14:54:52] [Client thread/INFO]: [CHAT] <MasterVelyk> near impossible
+[14:54:52] [Client thread/INFO]: [CHAT] lacklinGAMING joined the game
+[14:54:52] [Client thread/INFO]: [CHAT] FuriousDestroyer left the game.
+[14:54:52] [Client thread/INFO]: [CHAT] [ADMIN] xRubyMC [Console]: Swagasaur that I found was bypassed a permban.. lol
+[14:54:52] [Client thread/INFO]: [CHAT] HydraSlayer91 joined the game
+[14:54:56] [Client thread/INFO]: [CHAT] < lacklinGAMING> .
+[14:54:57] [Client thread/INFO]: [CHAT] < Hydra> lel
+[14:54:58] [Client thread/INFO]: [CHAT] StevenNL2000 - Banning FluffyCheesebal1 and IPs: 98.228.157.130
+[14:54:58] [Client thread/INFO]: [CHAT] * xXSoliCraftXx is now AFK.
+[14:54:58] [Client thread/INFO]: [CHAT] sk8erace1 joined the game
+[14:55:00] [Client thread/INFO]: [CHAT] <THEBLAHBRO> Mac 5 life BITCHES!
+[14:55:01] [Client thread/INFO]: [CHAT] StevenNL2000 - Rolling back player: fluffycheesebal1
+[14:55:01] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> hi
+[14:55:05] [Client thread/INFO]: [CHAT] [Server:markbyron] ok, I added more of his IPs
+[14:55:05] [Client thread/INFO]: [CHAT] CommandSpy enabled.
+[14:55:15] [Client thread/INFO]: [CHAT] Mac_OS_X - Opping all players on the server
+[14:55:15] [Client thread/INFO]: [CHAT] You are now op!
+[14:55:15] [Client thread/INFO]: [CHAT] <PHP7> thc
+[14:55:15] [Client thread/INFO]: [CHAT] <sk8erace1> who got a cracked need staff server
+[14:55:15] [Client thread/INFO]: [CHAT] Matta was slain by HydraSlayer91 using [Mars Magik]
+[14:55:15] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> he has multiple ips?
+[14:55:18] [Client thread/INFO]: [CHAT] < TheFrostWalker> wtf
+[14:55:18] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> markbyron
+[14:55:19] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> hi
+[14:55:21] [Client thread/INFO]: [CHAT] Matta: /gmc
+[14:55:22] [Client thread/INFO]: [CHAT] [ADMIN] TheCool1Mike [SA]: VPNs/Proxies
+[14:55:22] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: An online shitstorm approaches... the trolls are joining.
+[14:55:23] [Client thread/INFO]: [CHAT] MasterVelyk left the game.
+[14:55:34] [Client thread/INFO]: [CHAT] Seb joined the game
+[14:55:34] [Client thread/INFO]: [CHAT] Welcome  Roxes to the server!
+[14:55:34] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: lol\
+[14:55:34] [Client thread/INFO]: [CHAT] * xXSoliCraftXx is no longer AFK.
+[14:55:34] [Client thread/INFO]: [CHAT] xXSoliCraftXx: /ai
+[14:55:35] [Client thread/INFO]: [CHAT] FuriousDestroyer joined the game
+[14:55:39] [Client thread/INFO]: [CHAT] Goseale: /give Goseale CreeperSeth
+[14:55:40] [Client thread/INFO]: [CHAT] [ADMIN] TheCool1Mike [SA]: I'm the only super admin online :/
+[14:55:40] [Client thread/INFO]: [CHAT] markbyron - Opping all players on the server
+[14:55:40] [Client thread/INFO]: [CHAT] You are now op!
+[14:55:41] [Client thread/INFO]: [CHAT] < FuriousDestroyer> hi
+[14:55:42] [Client thread/INFO]: [CHAT] Seb: /home
+[14:55:44] [Client thread/INFO]: [CHAT] ghost13 joined the game
+[14:55:44] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: Mark, why not use admin chat? You never do
+[14:55:47] [Client thread/INFO]: [CHAT] Seb: /home seb_base
+[14:55:47] [Client thread/INFO]: [CHAT] [ADMIN] TheCool1Mike [SA]: ^^
+[14:55:47] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: Basically a Hell March.
+[14:55:54] [Client thread/INFO]: [CHAT] Goseale: /give Goseale command_block
+[14:55:54] [Client thread/INFO]: [CHAT] [ADMIN] markbyron [Console]: bye!!!!
+[14:55:54] [Client thread/INFO]: [CHAT] THEBLAHBRO left the game.
+[14:55:54] [Client thread/INFO]: [CHAT] [ADMIN] TheCool1Mike [SA]: cya
+[14:55:54] [Client thread/INFO]: [CHAT] FuriousDestroyer: /tag set &lYouTuber
+[14:55:55] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: He used it once
+[14:55:55] [Client thread/INFO]: [CHAT] [ADMIN] xRubyMC [Console]: Surrender, Mike:P
+[14:55:56] [Client thread/INFO]: [CHAT] HydraSlayer91: /gms
+[14:55:57] [Client thread/INFO]: [CHAT] <ghost13> hi FAKE FuriousDestroyer
+[14:55:58] [Client thread/INFO]: [CHAT] Trezzle_ joined the game
+[14:55:58] [Client thread/INFO]: [CHAT] Trezzle_ left the game.
+[14:55:58] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [STA]: Goodbye
+[14:55:58] [Client thread/INFO]: [CHAT] Wolfies_pvp joined the game
+[14:55:58] [Client thread/INFO]: [CHAT] [ADMIN] TheCool1Mike [SA]: O.o
+[14:55:59] [Client thread/INFO]: [CHAT] YouTuber < FuriousDestroyer> i am real!!!!!
+[14:56:00] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: Literally once
+[14:56:00] [Client thread/INFO]: [CHAT] Lyreas: /msg FuriousDestroyer Ok If You Are Real Whats Your Real Name
+[14:56:02] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: lol
+[14:56:03] [Client thread/INFO]: [CHAT] <ghost13> no
+[14:56:03] [Client thread/INFO]: [CHAT] Kraft__Lawrence joined the game
+[14:56:04] [Client thread/INFO]: [CHAT] WarriorOfAges joined the game
+[14:56:04] [Client thread/INFO]: [CHAT] Welcome WarriorOfAges to the server!
+[14:56:06] [Client thread/INFO]: [CHAT] < Roxes> What The Hell Happen To My BASE!?
+[14:56:07] [Client thread/INFO]: [CHAT] FuriousDestroyer: /r patrick
+[14:56:14] [Client thread/INFO]: [CHAT] StevenNL2000 - Opping all players on the server
+[14:56:14] [Client thread/INFO]: [CHAT] You are now op!
+[14:56:14] [Client thread/INFO]: [CHAT] < Hydra> Goseale
+[14:56:14] [Client thread/INFO]: [CHAT] Teleporting...
+[14:56:16] [Client thread/INFO]: [CHAT] < Goseale> yes?
+[14:56:18] [Client thread/INFO]: [CHAT] < Roxes> its Gone!?
+[14:56:18] [Client thread/INFO]: [CHAT] <ghost13> uplod this ko FuriousDestroyer
+[14:56:23] [Client thread/INFO]: [CHAT] < Hydra> Cmd blocks arn't enabled?
+[14:56:23] [Client thread/INFO]: [CHAT] Received kit admintools.
+[14:56:25] [Client thread/INFO]: [CHAT] hamiehamie joined the game
+[14:56:25] [Client thread/INFO]: [CHAT] Welcome hamiehamie to the server!
+[14:56:25] [Client thread/INFO]: [CHAT] <sk8erace1> t
+[14:56:25] [Client thread/INFO]: [CHAT] YouTuber < FuriousDestroyer> ok
+[14:56:26] [Client thread/INFO]: [CHAT] sk8erace1 left the game.
+[14:56:26] [Client thread/INFO]: [CHAT] HaloZone2908 joined the game
+[14:56:26] [Client thread/INFO]: [CHAT] Welcome HaloZone2908 to the server!
+[14:56:27] [Client thread/INFO]: [CHAT] <ghost13> uplod this ok FuriousDestroyer
+[14:56:28] [Client thread/INFO]: [CHAT] < CreeperSeth> brb gotta re generate and image I can only make in unity3dd
+[14:56:29] [Client thread/INFO]: [CHAT] YouTuber < FuriousDestroyer> i am recording
+[14:56:30] [Client thread/INFO]: [CHAT] <ghost13> ok
+[14:56:30] [Client thread/INFO]: [CHAT] < Goseale> dammed
+[14:56:30] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> 5 telnets admin on
+[14:56:31] [Client thread/INFO]: [CHAT] sk8erace1 joined the game
+[14:56:31] [Client thread/INFO]: [CHAT] [Cool Crew] [LDR] [SA] < TheCool1Mike> No, they aren't enabled.
+[14:56:32] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> --'
+[14:56:33] [Client thread/INFO]: [CHAT] < CreeperSeth> unity3d*
+[14:56:35] [Client thread/INFO]: [CHAT] [Cool Crew] [LDR] [SA] < TheCool1Mike> I'm the only SA xD
+[14:56:35] [Client thread/INFO]: [CHAT] <HaloZone2908> Hello
+[14:56:38] [Client thread/INFO]: [CHAT] CreeperSeth: /afk
+[14:56:38] [Client thread/INFO]: [CHAT] *  CreeperSeth is now AFK.
+[14:56:39] [Client thread/INFO]: [CHAT] Lyreas: /r whats your youtube channel
+[14:56:43] [Client thread/INFO]: [CHAT] Matta: //wand
+[14:56:44] [Client thread/INFO]: [CHAT] < Goseale> ehemm
+[14:56:46] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> ggnorewouldrateagain
+[14:56:55] [Client thread/INFO]: [CHAT] ethanb13431 joined the game
+[14:56:55] [Client thread/INFO]: [CHAT] Welcome ethanb13431 to the server!
+[14:56:55] [Client thread/INFO]: [CHAT] Matta: //set iron
+[14:56:55] [Client thread/INFO]: [CHAT] SamGamer99 joined the game
+[14:56:55] [Client thread/INFO]: [CHAT] [CONSOLE]<xRubyMC> Dieee Mikey xd
+[14:56:55] [Client thread/INFO]: [CHAT] < Roxes> SA What Happen To My BASE?!
+[14:56:56] [Client thread/INFO]: [CHAT] StevenNL2000 - Opping all players on the server
+[14:56:56] [Client thread/INFO]: [CHAT] You are now op!
+[14:56:56] [Client thread/INFO]: [CHAT] DavidtheWimp joined the game
+[14:56:56] [Client thread/INFO]: [CHAT] YouTuber < FuriousDestroyer> i am recording and this will be uploaded to my youtube chanel!!!!!!
+[14:56:56] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> 1 super admin on
+[14:56:57] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:9999,id:1,lvl9999}]}
+[14:56:57] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> and
+[14:56:59] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> 5 telnets admin on
+[14:57:01] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> --'
+[14:57:05] [Client thread/INFO]: [CHAT] [ADMIN] TheCool1Mike [SA]: I applied for telnet though c:
+[14:57:07] [Client thread/INFO]: [CHAT] WarriorOfAges: /warp pvp
+[14:57:10] [Client thread/INFO]: [CHAT] Mac_OS_X - Rolling back player: clown__br
+[14:57:15] [Client thread/INFO]: [CHAT] <PHP7> `-`
+[14:57:16] [Client thread/WARN]: Received passengers for unknown entity
+[14:57:16] [Client thread/INFO]: [CHAT] [CONSOLE]<xRubyMC> 1 console c:
+[14:57:16] [Client thread/INFO]: [CHAT] HaloZone2908: /staff
+[14:57:16] [Client thread/INFO]: [CHAT] [ADMIN] TheCool1Mike [SA]: I don't want Ruby to kill m
+[14:57:16] [Client thread/INFO]: [CHAT] <Wolfies_pvp> _--
+[14:57:16] [Client thread/INFO]: [CHAT] [ADMIN] TheCool1Mike [SA]: I don't want Ruby to kill me
+[14:57:16] [Client thread/INFO]: [CHAT] < Roxes> TheCool1Mike What Happen To My Base?!
+[14:57:16] [Client thread/INFO]: [CHAT] ThunderSlayers: /tp xXSoliCraftXx
+[14:57:16] [Client thread/INFO]: [CHAT] FuriousDestroyer: /tp PHP7
+[14:57:16] [Client thread/INFO]: [CHAT] Lyreas: /op
+[14:57:16] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:10,lvl:9999,id:7,lvl9999}]}
+[14:57:18] [Client thread/INFO]: [CHAT] [Cool Crew] [LDR] [SA] < TheCool1Mike> Idk
+[14:57:18] [Client thread/INFO]: [CHAT] rrj112 left the game.
+[14:57:19] [Client thread/INFO]: [CHAT] <DavidtheWimp> i think there should be 6 telnets
+[14:57:19] [Client thread/INFO]: [CHAT] [CONSOLE]<Mac_OS_X> Actually...
+[14:57:20] [Client thread/INFO]: [CHAT] /suicide, /summon, /superpickaxe, /survival
+[14:57:20] [Client thread/INFO]: [CHAT] HaloZone2908 left the game.
+[14:57:20] [Client thread/INFO]: [CHAT] Wolfies_pvp: /tpo roxes
+[14:57:20] [Client thread/INFO]: [CHAT] ethanb13431: /ENCHAN
+[14:57:20] [Client thread/INFO]: [CHAT] hamiehamie: /give hamiehamie minecraft:elytra 1 0 {ench:[{id:7,lvl:32767}],Unbreakable:1}
+[14:57:20] [Client thread/INFO]: [CHAT] /suicide, /summon, /superpickaxe, /survival
+[14:57:21] [Client thread/INFO]: [CHAT] /suicide, /summon, /superpickaxe, /survival
+[14:57:21] [Client thread/INFO]: [CHAT] SamGamer99 left the game.
+[14:57:22] [Client thread/INFO]: [CHAT] /suicide, /summon, /superpickaxe, /survival
+[14:57:22] [Client thread/INFO]: [CHAT] ethanb13431: /enchant
+[14:57:22] [Client thread/INFO]: [CHAT] Gamemode set to survival.
+[14:57:25] [Client thread/INFO]: [CHAT] God mode enabled.
+[14:57:26] [Client thread/INFO]: [CHAT] ethanb13431: /enchant list
+[14:57:27] [Client thread/INFO]: [CHAT] < Roxes> its gone
+[14:57:29] [Client thread/INFO]: [CHAT] ShadowNinja_33 joined the game
+[14:57:29] [Client thread/INFO]: [CHAT] Welcome ShadowNinja_33 to the server!
+[14:57:30] [Client thread/INFO]: [CHAT] hamiehamie: /i enderchest 1
+[14:57:30] [Client thread/INFO]: [CHAT] [CONSOLE]<Mac_OS_X> 2 console in all aspects
+[14:57:32] [Client thread/INFO]: [CHAT] aaaaaaaaaa joined the game
+[14:57:34] [Client thread/INFO]: [CHAT] < Roxes> took my while to do it
+[14:57:34] [Client thread/INFO]: [CHAT] HydraSlayer91: /list -a
+[14:57:34] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> mhm
+[14:57:35] [Client thread/INFO]: [CHAT] <ghost13> how meny subscrides do u have FAKE/R FuriousDestroyer
+[14:57:37] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrenceminecraft:diamond_sword 1 0 {ench:[{id:16,lvl:20000}]}
+[14:57:38] [Client thread/INFO]: [CHAT] FuriousDestroyer: /tp Mac_OS_X
+[14:57:39] [Client thread/INFO]: [CHAT] Lyreas: /adminmode
+[14:57:41] [Client thread/INFO]: [CHAT] ethanb13431: /enchant effincency 4
+[14:57:42] [Client thread/INFO]: [CHAT] [CONSOLE]<xRubyMC> I'm a seni- Telnet lol
+[14:57:42] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:20000}]}
+[14:57:43] [Client thread/INFO]: [CHAT] ShadowNinja_33: /tpo TheCool1Mike
+[14:57:43] [Client thread/INFO]: [CHAT] < Hydra> 4 telents*
+[14:57:43] [Client thread/INFO]: [CHAT] /createhome, /createjail, /createwarp, /creative
+[14:57:43] [Client thread/INFO]: [CHAT] /createhome, /createjail, /createwarp, /creative
+[14:57:44] [Client thread/INFO]: [CHAT] /createhome, /createjail, /createwarp, /creative
+[14:57:44] [Client thread/INFO]: [CHAT] /createhome, /createjail, /createwarp, /creative
+[14:57:45] [Client thread/INFO]: [CHAT] Mac_OS_X - Banning CLOWN__Br and IPs: 201.9.79.47
+[14:57:45] [Client thread/INFO]: [CHAT] Gamemode set to creative.
+[14:57:49] [Client thread/INFO]: [CHAT] hamiehamie: /give hamiehamie minecraft:diamond_helmet 1 0 {ench:[{id:7,lvl:32767}],Unbreakable:1}
+[14:57:50] [Client thread/INFO]: [CHAT] ethanb13431: /enchant effincency
+[14:57:53] [Client thread/INFO]: [CHAT] Miner0818 joined the game
+[14:57:54] [Client thread/INFO]: [CHAT] Player IPs: 97.118.229.94
+[14:57:55] [Client thread/INFO]: [CHAT] hamiehamie: /give hamiehamie minecraft:diamond_boots 1 0 {ench:[{id:7,lvl:32767}],Unbreakable:1}
+[14:57:55] [Client thread/INFO]: [CHAT] <Miner0818> hi
+[14:57:56] [Client thread/INFO]: [CHAT] <ghost13> come on
+[14:57:57] [Client thread/INFO]: [CHAT] Lyreas: //wand
+[14:57:59] [Client thread/INFO]: [CHAT] WarriorOfAges left the game.
+[14:58:01] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> I was telnet clan then i had to reinstate
+[14:58:02] [Client thread/INFO]: [CHAT] Admin: VideoGameSmash12
+[14:58:02] [Client thread/INFO]: [CHAT] - Last Login Name: VideoGameSmash12
+[14:58:02] [Client thread/INFO]: [CHAT] - IPs: 97.118.229.94
+[14:58:02] [Client thread/INFO]: [CHAT] - Last Login: Thu, 17 Mar 2016 21:54:07 +0000
+[14:58:02] [Client thread/INFO]: [CHAT] - Custom Login Message: 
+[14:58:02] [Client thread/INFO]: [CHAT] - Rank: Telnet Admin
+[14:58:02] [Client thread/INFO]: [CHAT] - Is Active: true
+[14:58:04] [Client thread/INFO]: [CHAT] hamiehamie: /flatlands
+[14:58:07] [Client thread/INFO]: [CHAT] [ADMIN] xRubyMC [Console]: Swagasaur permbanned lol
+[14:58:07] [Client thread/INFO]: [CHAT] Goseale: /speed 4
+[14:58:10] [Client thread/INFO]: [CHAT] ShadowNinja_33: /msg TheCool1Mike i am Trezzle_ brother
+[14:58:15] [Client thread/INFO]: [CHAT] Goseale: /speed 2
+[14:58:15] [Client thread/INFO]: [CHAT] sk8erace1 left the game.
+[14:58:16] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: Not much for swag.
+[14:58:17] [Client thread/INFO]: [CHAT] Wolfies_pvp: /gms
+[14:58:19] [Client thread/INFO]: [CHAT] Superguy121 joined the game
+[14:58:20] [Client thread/INFO]: [CHAT] ShadowNinja_33: /r hi
+[14:58:21] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[14:58:22] [Client thread/INFO]: [CHAT] Goseale: /speed 0
+[14:58:23] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:20000,id:7,lvl:20000}]}
+[14:58:23] [Client thread/INFO]: [CHAT] 11 player bans (10 usernames, 17 IPs)
+[14:58:24] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> y/o lol
+[14:58:24] [Client thread/INFO]: [CHAT] ethanb13431: /enchant addall
+[14:58:25] [Client thread/INFO]: [CHAT] <Superguy121> who has a realm
+[14:58:26] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: lol
+[14:58:26] [Client thread/INFO]: [CHAT] ThunderSlayers: /tp ghost13
+[14:58:27] [Client thread/INFO]: [CHAT] Goseale: /speed -1
+[14:58:28] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:28] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:29] [Client thread/INFO]: [CHAT] Seb: /enchant
+[14:58:29] [Client thread/INFO]: [CHAT] hamiehamie: /enchant
+[14:58:29] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:30] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:30] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:30] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:31] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:31] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:32] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:32] [Client thread/INFO]: [CHAT] ThunderSlayers: /spawn
+[14:58:33] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:33] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:33] [Client thread/INFO]: [CHAT] Goseale: /speed 4
+[14:58:34] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:34] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:34] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:34] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:35] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:35] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:35] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:35] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:36] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:36] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:36] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:36] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:37] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:37] [Client thread/INFO]: [CHAT] <ghost13> u FAKE NOOB i need to know if you r real
+[14:58:37] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:37] [Client thread/INFO]: [CHAT] Wolfies_pvp: /gmc
+[14:58:37] [Client thread/INFO]: [CHAT] /back, /bal, /balance, /balancetop, /baltop, /ban, /ban-ip, /banlist, /bc, /bcmd, /bcr, /bcreload, /bettechairsreload, /betterchairs:bcr, /betterchairs:bcreload, /betterchairs:bettechairsreload, /bigtree, /biomeinfo, /biomelist, /biomels, /blockcmd, /blockcommand, /blockcommands, /blockdata, /blocks, /book, /br, /break, /brush, /bukkit:?, /bukkit:about, /bukkit:help, /bukkit:pl, /bukkit:plugins, /bukkit:reload, /bukkit:rl, /bukkit:timings, /bukkit:ver, /bukkit:version, /butcher
+[14:58:40] [Client thread/INFO]: [CHAT] Error: You are not holding a writable book.
+[14:58:41] [Client thread/INFO]: [CHAT] <ghost13> FuriousDestroyer
+[14:58:41] [Client thread/INFO]: [CHAT] Seb: /enchant add all Prot
+[14:58:41] [Client thread/INFO]: [CHAT] ShadowNinja_33: /nickname ShadowNinja_33
+[14:58:48] [Client thread/INFO]: [CHAT] <ShadowNinja_33> hi
+[14:58:48] [Client thread/INFO]: [CHAT] Goseale: /speed 10
+[14:58:48] [Client thread/INFO]: [CHAT] YouTuber < FuriousDestroyer> what me
+[14:58:48] [Client thread/INFO]: [CHAT] [ADMIN] xRubyMC [Console]: No, look on the logs or your telnet client
+[14:58:48] [Client thread/INFO]: [CHAT] <Superguy121> who has a realm?
+[14:58:50] [Client thread/INFO]: [CHAT] Seb: /enchant list
+[14:58:50] [Client thread/INFO]: [CHAT] YouTuber < FuriousDestroyer> i am real
+[14:58:51] [Client thread/INFO]: [CHAT] <PHP7> TheCool1Mike you missed a block
+[14:58:51] [Client thread/INFO]: [CHAT] xXSoliCraftXx: /ai
+[14:58:52] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> o So, about that one guy?
+[14:58:52] [Client thread/INFO]: [CHAT] <ghost13> ok
+[14:58:54] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> oh
+[14:58:55] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> uh
+[14:58:56] [Client thread/INFO]: [CHAT] [ADMIN] TheCool1Mike [SA]: Ruby
+[14:58:56] [Client thread/INFO]: [CHAT] <ethanb13431> furious destroyer youre on!!!1
+[14:58:57] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> ignore that
+[14:59:00] [Client thread/INFO]: [CHAT] <ghost13> nooo you r not
+[14:59:01] [Client thread/INFO]: [CHAT] Seb: /enchant Protection 1
+[14:59:01] [Client thread/INFO]: [CHAT] Goseale: /speed 20
+[14:59:03] [Client thread/INFO]: [CHAT] HydraSlayer91: /give Hy minecraft:diamond_sword 1 0 {ench:[{id:17,lvl:2000000}]}]{ench:[{id:16,lvl:2000000}]}
+[14:59:03] [Client thread/INFO]: [CHAT] [ADMIN] TheCool1Mike [SA]: what telnet client do you use for phones?
+[14:59:03] [Client thread/INFO]: [CHAT] Seb: /enchant Protection
+[14:59:04] [Client thread/INFO]: [CHAT] YouTuber < FuriousDestroyer> ghost13 i am recording
+[14:59:05] [Client thread/INFO]: [CHAT] Lyreas: /kill FuriousDestroyer
+[14:59:05] [Client thread/INFO]: [CHAT] ethanb13431: /tpa furiousdestroyer
+[14:59:06] [Client thread/INFO]: [CHAT] Goseale: /speed 4
+[14:59:07] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: I failed
+[14:59:07] [Client thread/INFO]: [CHAT] Seb: /enchant Protection
+[14:59:11] [Client thread/INFO]: [CHAT] FuriousDestroyer: /tpaccept
+[14:59:11] [Client thread/INFO]: [CHAT] ShadowNinja_33: /head
+[14:59:13] [Client thread/INFO]: [CHAT] Seb: /enchant Protection
+[14:59:14] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> Recording?
+[14:59:14] [Client thread/INFO]: [CHAT] HydraSlayer91: /give Hy minecraft:diamond_sword 1 0 {ench:[{id:17,lvl:2000000}]}],{ench:[{id:16,lvl:2000000}]}
+[14:59:14] [Client thread/INFO]: [CHAT] Goseale: /speed off
+[14:59:15] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> A shitstorm is approaching...
+[14:59:15] [Client thread/INFO]: [CHAT] <ghost13> ok
+[14:59:17] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 Unbrakeab{ench:[{id:16,lvl:20000,id:7,lvl:20000}]}
+[14:59:18] [Client thread/INFO]: [CHAT] Lyreas: /give Lyreas command_block
+[14:59:18] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> ok
+[14:59:19] [Client thread/INFO]: [CHAT] HaveABadTime joined the game
+[14:59:19] [Client thread/INFO]: [CHAT] Welcome HaveABadTime to the server!
+[14:59:19] [Client thread/INFO]: [CHAT] Seb: /enchant add Protection
+[14:59:23] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> Fake YouTubers are joining.
+[14:59:25] [Client thread/INFO]: [CHAT] ethanb13431: /ENCHANT addall
+[14:59:25] [Client thread/INFO]: [CHAT] StevenNL2000 - Opping all players on the server
+[14:59:25] [Client thread/INFO]: [CHAT] You are now op!
+[14:59:25] [Client thread/INFO]: [CHAT] <ghost13> ok????????
+[14:59:26] [Client thread/INFO]: [CHAT] Seb: /enchant list
+[14:59:26] [Client thread/INFO]: [CHAT] YouTuber < FuriousDestroyer> no
+[14:59:27] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 Unbrakeab{ench:[{id:16,lvl:20000}]}
+[14:59:29] [Client thread/INFO]: [CHAT] Mac_OS_X - Rolling back player: furiousdestroyer
+[14:59:29] [Client thread/INFO]: [CHAT] YouTuber < FuriousDestroyer> i am real
+[14:59:30] [Client thread/INFO]: [CHAT] Miner0818: /setwarp pvphere
+[14:59:32] [Client thread/INFO]: [CHAT] HydraSlayer91: /give Hy minecraft:diamond_sword 1 0 {ench:[{id:17,lvl:2000000}]}], {ench:[{id:16,lvl:2000000}]}
+[14:59:32] [Client thread/INFO]: [CHAT] HaveABadTime: /who
+[14:59:34] [Client thread/INFO]: [CHAT] Miner0818: /warp pvphere
+[14:59:35] [Client thread/INFO]: [CHAT] <ethanb13431> hes lying
+[14:59:36] [Client thread/INFO]: [CHAT] TheCool1Mike left the game.
+[14:59:36] [Client thread/INFO]: [CHAT] FuriousDestroyer has been a VERY naughty, naughty boy.
+[14:59:36] [Client thread/INFO]: [CHAT] Banning: FuriousDestroyer, IP: 71.123.*.* - Reason: Griefing
+[14:59:36] [Client thread/INFO]: [CHAT] FuriousDestroyer left the game.
+[14:59:37] [Client thread/INFO]: [CHAT] Lyreas: /i command_block
+[14:59:38] [Client thread/INFO]: [CHAT] [ADMIN] xRubyMC [Console]: What mike? I'm on mobile and I can't see your message lol
+[14:59:39] [Client thread/INFO]: [CHAT] Seb: /enchant add Protection_environmental
+[14:59:40] [Client thread/INFO]: [CHAT] HydraSlayer91: /spawn
+[14:59:40] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> Lul
+[14:59:42] [Client thread/INFO]: [CHAT] < Goseale> what
+[14:59:43] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 Unbrakeab{ench:[{id:10,lvl:20000}]}
+[14:59:43] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> in video
+[14:59:44] [Client thread/INFO]: [CHAT] Miner0818: /warp pvp
+[14:59:44] [Client thread/INFO]: [CHAT] HaveABadTime: /spawn
+[14:59:44] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> So real.
+[14:59:44] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: lol
+[14:59:45] [Client thread/INFO]: [CHAT] HaveABadTime: /spawn
+[14:59:45] [Client thread/INFO]: [CHAT] <PHP7> lel
+[14:59:45] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> WOW
+[14:59:46] [Client thread/INFO]: [CHAT] HaveABadTime: /spawn
+[14:59:55] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 Unbrakeab{ench:[{id:11,lvl:20000}]}
+[14:59:55] [Client thread/INFO]: [CHAT] Goseale: /summon LightningBolt
+[14:59:55] [Client thread/INFO]: [CHAT] [Goseale: Object successfully summoned]
+[14:59:56] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> banned in video WOW
+[14:59:58] [Client thread/INFO]: [CHAT] HaveABadTime: /speed 5
+[14:59:58] [Client thread/INFO]: [CHAT] Miner0818: /warp pvp
+[14:59:58] [Client thread/INFO]: [CHAT] Goseale: /summon LightningBolt
+[14:59:58] [Client thread/INFO]: [CHAT] [Goseale: Object successfully summoned]
+[14:59:59] [Client thread/INFO]: [CHAT] LMS_3 joined the game
+[14:59:59] [Client thread/INFO]: [CHAT] Goseale: /summon LightningBolt
+[14:59:59] [Client thread/INFO]: [CHAT] [Goseale: Object successfully summoned]
+[14:59:59] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> GG
+[14:59:59] [Client thread/INFO]: [CHAT] Goseale: /summon LightningBolt
+[14:59:59] [Client thread/INFO]: [CHAT] [Goseale: Object successfully summoned]
+[14:59:59] [Client thread/INFO]: [CHAT] HydraSlayer91: /hat
+[15:00:00] [Client thread/INFO]: [CHAT] Goseale: /summon LightningBoltc
+[15:00:00] [Client thread/INFO]: [CHAT] [Goseale: Unable to summon object]
+[15:00:00] [Client thread/INFO]: [CHAT] <PHP7> LoL
+[15:00:00] [Client thread/INFO]: [CHAT] < Roxes> how can i add enchant Armor
+[15:00:01] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [STA]: I don't have any administration tools on my phone, I don't want to be semi-present
+[15:00:01] [Client thread/INFO]: [CHAT] lacklinGAMING: //wand
+[15:00:01] [Client thread/INFO]: [CHAT] ethanb13431: /enchant addall
+[15:00:02] [Client thread/INFO]: [CHAT] HaveABadTime: /god
+[15:00:05] [Client thread/INFO]: [CHAT] Mac_OS_X - Blocking all commands for Goseale
+[15:00:07] [Client thread/INFO]: [CHAT] ethanb13431: /enchant addall
+[15:00:10] [Client thread/INFO]: [CHAT] HaveABadTime: /potion add invisibility 9999999 999999
+[15:00:10] [Client thread/INFO]: [CHAT] Seb: /help
+[15:00:11] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> Rest in Peaches.
+[15:00:11] [Client thread/INFO]: [CHAT] <PHP7> Lmao
+[15:00:11] [Client thread/INFO]: [CHAT] [Server:Mac_OS_X] Stop spamming /summon
+[15:00:12] [Client thread/INFO]: [CHAT] <Superguy121> who has a realm
+[15:00:12] [Client thread/INFO]: [CHAT] DavidtheWimp left the game.
+[15:00:12] [Client thread/INFO]: [CHAT] < Goseale> ??
+[15:00:18] [Client thread/INFO]: [CHAT] ethanb13431: /enchant addall
+[15:00:18] [Client thread/INFO]: [CHAT] Seb: /help 2
+[15:00:18] [Client thread/INFO]: [CHAT] hamiehamie: /give hamiehamie minecraft:potion 2 0 {CustomPotionEffects:[{Id:11,Amplifier:100,Duration:9999999}]}
+[15:00:18] [Client thread/INFO]: [CHAT] LMS_3: /ym
+[15:00:18] [Client thread/INFO]: [CHAT] Mac_OS_X - Unblocking commands for all players
+[15:00:18] [Client thread/INFO]: [CHAT] Lyreas: /op
+[15:00:18] [Client thread/INFO]: [CHAT] < Goseale> ok
+[15:00:21] [Client thread/INFO]: [CHAT] Seb: /help 3
+[15:00:22] [Client thread/INFO]: [CHAT] Mac_OS_X - Cleaning all nicknames
+[15:00:22] [Client thread/INFO]: [CHAT] Lyreas: /op
+[15:00:23] [Client thread/INFO]: [CHAT] Musebrat2 joined the game
+[15:00:23] [Client thread/INFO]: [CHAT] HaveABadTime: /i dsword 99999
+[15:00:24] [Client thread/INFO]: [CHAT] ethanb13431: /gamemode 0
+[15:00:25] [Client thread/INFO]: [CHAT] lacklinGAMING: /give lacklinGAMING diamond_helmet 1 name:&4Death_&1Helmet
+[15:00:25] [Client thread/INFO]: [CHAT] Block edits at (x138, y51, z24):
+[15:00:25] [Client thread/INFO]: [CHAT]  - Matta placed Ender_portal_frame
+[15:00:25] [Client thread/INFO]: [CHAT]  - Matta placed Ender_portal_frame:4
+[15:00:25] [Client thread/INFO]: [CHAT]  - Matta broke Ender_portal_frame:4
+[15:00:25] [Client thread/INFO]: [CHAT]  - Matta placed Beacon
+[15:00:25] [Client thread/INFO]: [CHAT]  - Matta broke Beacon
+[15:00:25] [Client thread/INFO]: [CHAT]  - Matta placed Ender_portal_frame
+[15:00:25] [Client thread/INFO]: [CHAT]  - Matta placed Ender_portal_frame:4
+[15:00:27] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> Nice and clean
+[15:00:27] [Client thread/INFO]: [CHAT] <Superguy121> who has a realm?
+[15:00:28] [Client thread/INFO]: [CHAT] Seb: /help 4
+[15:00:29] [Client thread/INFO]: [CHAT] ethanb13431: /survival
+[15:00:30] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant
+[15:00:30] [Client thread/INFO]: [CHAT] HaveABadTime: /ci
+[15:00:31] [Client thread/INFO]: [CHAT] Block edits at (x138, y51, z24):
+[15:00:31] [Client thread/INFO]: [CHAT]  - Matta placed Ender_portal_frame
+[15:00:31] [Client thread/INFO]: [CHAT]  - Matta placed Ender_portal_frame:4
+[15:00:31] [Client thread/INFO]: [CHAT]  - Matta broke Ender_portal_frame:4
+[15:00:31] [Client thread/INFO]: [CHAT]  - Matta placed Beacon
+[15:00:32] [Client thread/INFO]: [CHAT]  - Matta broke Beacon
+[15:00:32] [Client thread/INFO]: [CHAT]  - Matta placed Ender_portal_frame
+[15:00:32] [Client thread/INFO]: [CHAT]  - Matta placed Ender_portal_frame:4
+[15:00:39] [Client thread/INFO]: [CHAT] Block edits at (x138, y52, z24):
+[15:00:39] [Client thread/INFO]: [CHAT]  - VideoGameSmash12 placed Emerald_block
+[15:00:39] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:20000,id:7,lvl20000}]
+[15:00:39] [Client thread/INFO]: [CHAT] Seb: /help 5
+[15:00:39] [Client thread/INFO]: [CHAT] HaveABadTime: /i dsword 99999
+[15:00:39] [Client thread/INFO]: [CHAT] No block edits at that location.
+[15:00:39] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant list
+[15:00:39] [Client thread/INFO]: [CHAT] No block edits at that location.
+[15:00:39] [Client thread/INFO]: [CHAT] Block edits at (x138, y50, z21):
+[15:00:39] [Client thread/INFO]: [CHAT]  - VideoGameSmash12 placed Emerald_block
+[15:00:39] [Client thread/INFO]: [CHAT] <Superguy121> i wanna join a realm
+[15:00:40] [Client thread/INFO]: [CHAT] Lyreas: /hat
+[15:00:41] [Client thread/INFO]: [CHAT] Matta: //set iron
+[15:00:41] [Client thread/INFO]: [CHAT] Block edits at (x138, y50, z21):
+[15:00:41] [Client thread/INFO]: [CHAT]  - VideoGameSmash12 placed Emerald_block
+[15:00:42] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:20000}]
+[15:00:43] [Client thread/INFO]: [CHAT] Seb: /help 6
+[15:00:44] [Client thread/INFO]: [CHAT] SpeakerMaster left the game.
+[15:00:44] [Client thread/INFO]: [CHAT] [TotalFreedom] You may view all online administrators via "/list -a"
+[15:00:46] [Client thread/INFO]: [CHAT] No block edits at that location.
+[15:00:47] [Client thread/INFO]: [CHAT] Block edits at (x131, y50, z12):
+[15:00:47] [Client thread/INFO]: [CHAT]  - VideoGameSmash12 placed Emerald_block
+[15:00:47] [Client thread/INFO]: [CHAT] No block edits at that location.
+[15:00:47] [Client thread/INFO]: [CHAT] <ghost13> FuriousDestroyer
+[15:00:48] [Client thread/INFO]: [CHAT] Block edits at (x131, y50, z13):
+[15:00:48] [Client thread/INFO]: [CHAT]  - VideoGameSmash12 placed Emerald_block
+[15:00:48] [Client thread/INFO]: [CHAT] ethanb13431: /creative
+[15:00:48] [Client thread/INFO]: [CHAT] Block edits at (x131, y50, z13):
+[15:00:48] [Client thread/INFO]: [CHAT]  - VideoGameSmash12 placed Emerald_block
+[15:00:51] [Client thread/INFO]: [CHAT] LMS_3: /list -a
+[15:00:52] [Client thread/INFO]: [CHAT] [ADMIN] AndySixx [Console]: shit
+[15:00:54] [Client thread/INFO]: [CHAT] No block edits at that location.
+[15:01:01] [Client thread/INFO]: [CHAT] No block edits at that location.
+[15:01:01] [Client thread/INFO]: [CHAT] HydraSlayer91: /fly
+[15:01:01] [Client thread/INFO]: [CHAT] Goseale: /list -a
+[15:01:01] [Client thread/INFO]: [CHAT] Block edits at (x128, y50, z13):
+[15:01:01] [Client thread/INFO]: [CHAT]  - VideoGameSmash12 placed Emerald_block
+[15:01:01] [Client thread/INFO]: [CHAT] [ADMIN] xRubyMC [Console]: Okay, turned off commands for a moment ll
+[15:01:01] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> JB? more like GG
+[15:01:01] [Client thread/INFO]: [CHAT] LMS_3: /list
+[15:01:01] [Client thread/INFO]: [CHAT] HydraSlayer91: /fly
+[15:01:01] [Client thread/INFO]: [CHAT] <ghost13> oh
+[15:01:02] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant add PROTECTION_EVIRONMENTAL
+[15:01:03] [Client thread/INFO]: [CHAT] Superguy121 left the game.
+[15:01:03] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> Peanuts? more like deez nuts
+[15:01:03] [Client thread/INFO]: [CHAT] [ADMIN] AndySixx [Console]: my feet hurt
+[15:01:05] [Client thread/INFO]: [CHAT] Lyreas: /hat
+[15:01:06] [Client thread/INFO]: [CHAT] < Roxes> how can i add enchant Armor tell me
+[15:01:07] [Client thread/INFO]: [CHAT] <LMS_3> sta mean?
+[15:01:08] [Client thread/INFO]: [CHAT] Goseale: /vanish
+[15:01:09] [Client thread/INFO]: [CHAT] hamiehamie: /give hamiehamie minecraft:potion 2 0 {CustomPotionEffects:[{Id:3,Amplifier:100,Duration:9999999}]}
+[15:01:09] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: Okay, dual-wielding can be helpful.
+[15:01:11] [Client thread/INFO]: [CHAT] Matta: /pets
+[15:01:13] [Client thread/INFO]: [CHAT] Miner0818: /warp pvphere
+[15:01:13] [Client thread/INFO]: [CHAT] Matta: /pet
+[15:01:13] [Client thread/INFO]: [CHAT] Goseale: /van
+[15:01:14] [Client thread/INFO]: [CHAT] hamiehamie: /give hamiehamie minecraft:potion 2 0 {CustomPotionEffects:[{Id:23,Amplifier:100,Duration:9999999}]}
+[15:01:15] [Client thread/INFO]: [CHAT] [STA] < StevenNL2000> Super Telnet Admin
+[15:01:19] [Client thread/INFO]: [CHAT] ThunderSlayers left the game.
+[15:01:19] [Client thread/INFO]: [CHAT] 123LadyBug321 joined the game
+[15:01:19] [Client thread/INFO]: [CHAT] Welcome 123LadyBug321 to the server!
+[15:01:19] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant add PROTECTION_ENVIRONMENTAL
+[15:01:19] [Client thread/INFO]: [CHAT] Mac_OS_X - Rolling back player: fantys
+[15:01:19] [Client thread/INFO]: [CHAT] <LMS_3> oh
+[15:01:20] [Client thread/INFO]: [CHAT] ShadowNinja_33: /kit owner
+[15:01:21] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: Certainly saves a bit of time
+[15:01:21] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:20000,id:7,lvl20000]}]
+[15:01:22] [Client thread/INFO]: [CHAT] KohiPro joined the game
+[15:01:22] [Client thread/INFO]: [CHAT] Welcome KohiPro to the server!
+[15:01:27] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant list
+[15:01:27] [Client thread/INFO]: [CHAT] Lyreas: /hat
+[15:01:27] [Client thread/INFO]: [CHAT] PHP7: /near
+[15:01:28] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:20000,id:7,lvl20000]}
+[15:01:29] [Client thread/INFO]: [CHAT] Mac_OS_X - Banning Fantys and IPs: 95.20.208.133
+[15:01:30] [Client thread/INFO]: [CHAT] <Miner0818> warp pvphere to pvp1
+[15:01:30] [Client thread/INFO]: [CHAT] LMS_3: /ransk
+[15:01:41] [Client thread/INFO]: [CHAT] hamiehamie: /invsee ethanb13431
+[15:01:42] [Client thread/INFO]: [CHAT] <KohiPro> t
+[15:01:42] [Client thread/INFO]: [CHAT] StevenNL2000 - Opping all players on the server
+[15:01:42] [Client thread/INFO]: [CHAT] You are now op!
+[15:01:42] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant DURABILITY
+[15:01:42] [Client thread/INFO]: [CHAT] <Miner0818> pvp!*
+[15:01:42] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:20000,id:7,lvl20000]}]
+[15:01:42] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant add DURABILITY
+[15:01:42] [Client thread/INFO]: [CHAT] HaveABadTime: /i dirt 9001 name:Admins_are_fucktards
+[15:01:42] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> admin!
+[15:01:42] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant add DURABILITY
+[15:01:42] [Client thread/INFO]: [CHAT] < Roxes> Steven can u tell me how to enchant armor lv 50
+[15:01:42] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> grif
+[15:01:42] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:20000,id:7,lvl20000]}]
+[15:01:42] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> pls
+[15:01:43] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> plse
+[15:01:44] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: You don't need to press 2 different keys on a keyboard just to swap between items.
+[15:01:45] [Client thread/INFO]: [CHAT] ethanb13431: /survival
+[15:01:46] [Client thread/INFO]: [CHAT] HydraSlayer91: /i diamond_chestplate
+[15:01:46] [Client thread/INFO]: [CHAT] < Kraft__Lawrence> omg
+[15:01:49] [Client thread/INFO]: [CHAT] 123LadyBug321: /nickyun
+[15:01:49] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> adnin grif
+[15:01:49] [Client thread/INFO]: [CHAT] < Kraft__Lawrence> why
+[15:01:51] [Client thread/INFO]: [CHAT] <KohiPro> boom with yo big ass
+[15:01:51] [Client thread/INFO]: [CHAT] PHP7: /near
+[15:01:53] [Client thread/INFO]: [CHAT] 123LadyBug321: /help
+[15:01:53] [Client thread/INFO]: [CHAT] HydraSlayer91: /enchant addall
+[15:02:03] [Client thread/INFO]: [CHAT] ethanb13431: /enchant addall
+[15:02:03] [Client thread/INFO]: [CHAT] HaloZone2908 joined the game
+[15:02:03] [Client thread/INFO]: [CHAT] lacklinGAMING: /give lacklinGAMING diamond_chestplate 1 name:&4Death_&1Chestplate
+[15:02:03] [Client thread/INFO]: [CHAT] KohiPro left the game.
+[15:02:03] [Client thread/INFO]: [CHAT] LMS_3: /craft
+[15:02:03] [Client thread/INFO]: [CHAT] Seb: /kit
+[15:02:03] [Client thread/INFO]: [CHAT] No block edits at that location.
+[15:02:03] [Client thread/INFO]: [CHAT] Block edits at (x125, y49, z-9):
+[15:02:03] [Client thread/INFO]: [CHAT]  - LukaGamer457 broke Grass
+[15:02:03] [Client thread/INFO]: [CHAT]  - VideoGameSmash12 placed Emerald_block
+[15:02:03] [Client thread/INFO]: [CHAT] HydraSlayer91: /gmc
+[15:02:03] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant add DURABILITY
+[15:02:03] [Client thread/INFO]: [CHAT] Seb: /kitset
+[15:02:04] [Client thread/INFO]: [CHAT] 123LadyBug321: /help 2
+[15:02:04] [Client thread/INFO]: [CHAT] Seb: /help 7
+[15:02:05] [Client thread/INFO]: [CHAT] Goseale: /speed 3
+[15:02:06] [Client thread/INFO]: [CHAT] ethanb13431: /creative
+[15:02:06] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant add PROTECTION_ENVIRONMENTAL
+[15:02:06] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:7,lvl20000]}]
+[15:02:06] [Client thread/INFO]: [CHAT] Matta: //set iron
+[15:02:08] [Client thread/INFO]: [CHAT] mcantwell2u joined the game
+[15:02:08] [Client thread/INFO]: [CHAT] Welcome mcantwell2u to the server!
+[15:02:09] [Client thread/INFO]: [CHAT] hamiehamie: /tp 1000 60 10000
+[15:02:22] [Client thread/INFO]: [CHAT] HaveABadTime: /more
+[15:02:22] [Client thread/INFO]: [CHAT] 123LadyBug321: /help 3
+[15:02:22] [Client thread/INFO]: [CHAT] Lyreas: /flyspeed
+[15:02:22] [Client thread/INFO]: [CHAT] ShadowNinja_33: /warp glide
+[15:02:22] [Client thread/INFO]: [CHAT] LMS_3: /craft
+[15:02:22] [Client thread/INFO]: [CHAT] Seb: /help 8
+[15:02:22] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:7,lvl20000}]}
+[15:02:22] [Client thread/INFO]: [CHAT] [STA] < StevenNL2000> I don't know how to other than using a hack client, sorry
+[15:02:22] [Client thread/INFO]: [CHAT] Lyreas: /fly
+[15:02:22] [Client thread/INFO]: [CHAT] HaloZone2908: /nick
+[15:02:22] [Client thread/INFO]: [CHAT] lacklinGAMING: /give lacklinGAMING diamond_leggings 1 name:&4Death_&1Leggings
+[15:02:22] [Client thread/INFO]: [CHAT] ShadowNinja_33: /warp glide
+[15:02:22] [Client thread/INFO]: [CHAT] PHP7: /pet horse
+[15:02:22] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant add PROTECTION_ENVIRONMENTAL
+[15:02:22] [Client thread/INFO]: [CHAT] Lyreas: /fly
+[15:02:22] [Client thread/INFO]: [CHAT] StevenNL2000 - Opping all players on the server
+[15:02:22] [Client thread/INFO]: [CHAT] You are now op!
+[15:02:23] [Client thread/INFO]: [CHAT] ThunderSlayers joined the game
+[15:02:23] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant add DURABILITY
+[15:02:24] [Client thread/INFO]: [CHAT] ghost13: /kit onwer
+[15:02:24] [Client thread/INFO]: [CHAT] Lyreas: /flyspeed 5
+[15:02:25] [Client thread/INFO]: [CHAT] Miner0818: //set air
+[15:02:26] [Client thread/INFO]: [CHAT] LMS_3: /clear
+[15:02:26] [Client thread/INFO]: [CHAT] Seb: /help 9
+[15:02:29] [Client thread/INFO]: [CHAT] LMS_3: /firework
+[15:02:29] [Client thread/INFO]: [CHAT] mcantwell2u: /w
+[15:02:29] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: Have you ever thought, of a /grief command, where if someone was griefed they do it...
+[15:02:29] [Client thread/INFO]: [CHAT] Giving 1 of stick
+[15:02:31] [Client thread/INFO]: [CHAT] ghost13: /kit owner
+[15:02:32] [Client thread/INFO]: [CHAT] <PHP7> Awww, no /pet :(
+[15:02:32] [Client thread/INFO]: [CHAT] 123LadyBug321: /nick
+[15:02:32] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrenceminecraft:diamond_sword 1 0 {ench:[{id:16,lvl:20000}]}
+[15:02:33] [Client thread/INFO]: [CHAT] LMS_3: /firework
+[15:02:33] [Client thread/INFO]: [CHAT] mcantwell2u: /killall
+[15:02:34] [Client thread/INFO]: [CHAT] ThunderSlayers: /tag set &8[&bCool &6Crew&8] &8[&aOP&8]
+[15:02:35] [Client thread/INFO]: [CHAT] HaloZone2908: /pept
+[15:02:36] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: instead of spamming chat
+[15:02:36] [Client thread/INFO]: [CHAT] Lyreas: /flyspeed 10
+[15:02:36] [Client thread/INFO]: [CHAT] LMS_3: /kit fireworks
+[15:02:37] [Client thread/INFO]: [CHAT] lacklinGAMING: /give lacklinGAMING diamond_boots 1 name:&4Death_&1Boots
+[15:02:38] [Client thread/INFO]: [CHAT] < Roxes> ok
+[15:02:38] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:20000}]}
+[15:02:40] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant add DURABILITY
+[15:02:40] [Client thread/INFO]: [CHAT] ShadowNinja_33: /spawn
+[15:02:40] [Client thread/INFO]: [CHAT] No block edits at that location.
+[15:02:40] [Client thread/INFO]: [CHAT] Block edits at (x174, y50, z3):
+[15:02:40] [Client thread/INFO]: [CHAT]  - VideoGameSmash12 placed Emerald_block
+[15:02:41] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> go record
+[15:02:42] [Client thread/INFO]: [CHAT] < Roxes> are u using it now?
+[15:02:43] [Client thread/INFO]: [CHAT] < Goseale> u can enchant armor at level 50 by using a coomand
+[15:02:43] [Client thread/INFO]: [CHAT] HaveABadTime: /more
+[15:02:43] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant add DURABILITY
+[15:02:45] [Client thread/INFO]: [CHAT] HaveABadTime: /more
+[15:02:46] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant add PROTECTION_ENVIRONMENTAL
+[15:02:46] [Client thread/INFO]: [CHAT] ethanb13431: /nick TBNRfrags
+[15:02:47] [Client thread/INFO]: [CHAT] Seb: /help 10
+[15:02:50] [Client thread/INFO]: [CHAT] LMS_3: /kit fireworks
+[15:02:50] [Client thread/INFO]: [CHAT] Matta: //set pink
+[15:02:50] [Client thread/INFO]: [CHAT] [ADMIN] AndySixx [Console]: /report fam
+[15:02:51] [Client thread/INFO]: [CHAT] [Cool Crew] [OP] < ThunderFreddy> recording
+[15:02:51] [Client thread/INFO]: [CHAT] ethanb13431: /skin
+[15:02:51] [Client thread/INFO]: [CHAT] < Goseale> give me a second
+[15:02:52] [Client thread/INFO]: [CHAT] Lyreas: /flyspeed 1
+[15:02:53] [Client thread/INFO]: [CHAT] LMS_3: /craft
+[15:02:53] [Client thread/INFO]: [CHAT] <PHP7> how?
+[15:02:55] [Client thread/INFO]: [CHAT] ethanb13431: /skin help
+[15:02:56] [Client thread/INFO]: [CHAT] Lyreas: /flyspee
+[15:02:56] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> lol
+[15:03:00] [Client thread/INFO]: [CHAT] Seb: /help 1
+[15:03:02] [Client thread/INFO]: [CHAT] ethanb13431: /skin set steve
+[15:03:02] [Client thread/INFO]: [CHAT] 123LadyBug321: /nick 123LadyBug321 &9&l&nEmmi
+[15:03:02] [Client thread/INFO]: [CHAT] Lyreas: /flyspeed
+[15:03:02] [Client thread/INFO]: [CHAT] lacklinGAMING: /give lacklinGAMING Shield 1 name:&4Death_&1Shield
+[15:03:02] [Client thread/INFO]: [CHAT] xXSoliCraftXx left the game.
+[15:03:04] [Client thread/INFO]: [CHAT] Seb: /help 2
+[15:03:05] [Client thread/INFO]: [CHAT] <ghost13> lollololo
+[15:03:06] [Client thread/INFO]: [CHAT] HaloZone2908: /tag set &7You
+[15:03:07] [Client thread/INFO]: [CHAT] < Emmi> hi
+[15:03:08] [Client thread/INFO]: [CHAT] <aaaaaaaaaa> eres una zorra
+[15:03:08] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant list
+[15:03:09] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [STA]: I would suggest making the player in /report optional if you want something like that
+[15:03:10] [Client thread/INFO]: [CHAT] HaloZone2908: /tag set &6You
+[15:03:12] [Client thread/INFO]: [CHAT] Seb: /help 3
+[15:03:13] [Client thread/INFO]: [CHAT] HaloZone2908: /tag set &2You
+[15:03:15] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> Hi TBNR you're not fake at all!
+[15:03:15] [Client thread/INFO]: [CHAT] Lyreas: /flyspeed fly 10
+[15:03:15] [Client thread/INFO]: [CHAT] HaloZone2908: /tag set &1You
+[15:03:18] [Client thread/INFO]: [CHAT] Wolfies_pvp: /sethome
+[15:03:18] [Client thread/INFO]: [CHAT] <mcantwell2u> So much lag
+[15:03:18] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:diamond_sword 1 0 {ench:[{id:16,lvl:20000}]}
+[15:03:18] [Client thread/INFO]: [CHAT] HaloZone2908: /tag set &4You
+[15:03:18] [Client thread/INFO]: [CHAT] Seb: /help 4
+[15:03:19] [Client thread/INFO]: [CHAT] ethanb13431: /speed 4
+[15:03:22] [Client thread/INFO]: [CHAT] Wolfies_pvp: //wand
+[15:03:25] [Client thread/INFO]: [CHAT] Seb: /help 5
+[15:03:26] [Client thread/INFO]: [CHAT] Lyreas: /hat
+[15:03:26] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> Definitly real
+[15:03:26] [Client thread/INFO]: [CHAT] lacklinGAMING: /enchant add DURABILITY
+[15:03:27] [Client thread/INFO]: [CHAT] ethanb13431: /RANK
+[15:03:28] [Client thread/INFO]: [CHAT] Seb: /jails
+[15:03:29] [Client thread/INFO]: [CHAT] <ghost13> hi aaaaaaaaaa
+[15:03:30] [Client thread/INFO]: [CHAT] FireCrystal12 is a Super Admin
+[15:03:30] [Client thread/INFO]: [CHAT] FireCrystal12 joined the game
+[15:03:30] [Client thread/INFO]: [CHAT] Welcome  Mandar to the server!
+[15:03:30] [Client thread/INFO]: [CHAT] Kraft__Lawrence: /give Kraft__Lawrence minecraft:dirt 1 0 {ench:[{id:7,lvl:20000}]}
+[15:03:31] [Client thread/INFO]: [CHAT] ethanb13431: /rank youtuber
+[15:03:32] [Client thread/INFO]: [CHAT] FireCrystal12 left the game.
+[15:03:33] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: i spelled that wrong
+[15:03:33] [Client thread/INFO]: [CHAT] Seb: /help 6
+[15:03:34] [Client thread/INFO]: [CHAT] HaveABadTime: /more
+[15:03:34] [Client thread/INFO]: [CHAT] Matta: //set black
+[15:04:55] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:04:56] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[15:04:56] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[15:05:07] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[15:05:07] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[15:05:07] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[15:05:07] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they値l be lost.
+[15:05:07] [Client thread/INFO]: [CHAT] You have no new mail.
+[15:05:07] [Client thread/INFO]: [CHAT] <ghost13> i need one i do have one
+[15:05:07] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: mcant?
+[15:05:07] [Client thread/INFO]: [CHAT] < Hydra> ./invis smite
+[15:05:07] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: thee hell
+[15:05:07] [Client thread/INFO]: [CHAT] < Hydra> nvm
+[15:05:07] [Client thread/INFO]: [CHAT] sk8erace1 joined the game
+[15:05:07] [Client thread/INFO]: [CHAT] iXxDevxXi joined the game
+[15:05:08] [Client thread/INFO]: [CHAT] <Superguy121> who has a realm pls tell me if you do.
+[15:05:11] [Client thread/INFO]: [CHAT] [Server:Mac_OS_X] mcantwell2u Why are you doing a command twice
+[15:05:13] [Client thread/INFO]: [CHAT] [ ThunderFreddy -> me] plz use /invis smite
+[15:05:16] [Client thread/INFO]: [CHAT] CommandSpy enabled.
+[15:05:16] [Client thread/INFO]: [CHAT] < Imposter> Superguy
+[15:05:17] [Client thread/INFO]: [CHAT] mcantwell2u: /worldedit help 9
+[15:05:17] [Client thread/INFO]: [CHAT] mcantwell2u: /worldedit help 9
+[15:05:18] [Client thread/INFO]: [CHAT] Matta: //set red
+[15:05:18] [Client thread/INFO]: [CHAT] ghost13: /tp aaaaaaaaaa ghost13
+[15:05:19] [Client thread/INFO]: [CHAT] [me ->  ThunderFreddy] No.
+[15:05:20] [Client thread/INFO]: [CHAT] Wolfies_pvp: //replace stone air,stone
+[15:05:22] [Client thread/INFO]: [CHAT] Matta: //set redwool
+[15:05:22] [Client thread/INFO]: [CHAT] mcantwell2u: /worldedit help 10
+[15:05:22] [Client thread/INFO]: [CHAT] mcantwell2u: /worldedit help 10
+[15:05:23] [Client thread/INFO]: [CHAT] <Superguy121> yea
+[15:05:23] [Client thread/INFO]: [CHAT] Wolfies_pvp: //replace stone air,stone
+[15:05:24] [Client thread/INFO]: [CHAT] HaveABadTime: /command
+[15:05:25] [Client thread/INFO]: [CHAT] Wolfies_pvp: //replace stone air,stone
+[15:05:25] [Client thread/INFO]: [CHAT] < Imposter> I have a server
+[15:05:25] [Client thread/INFO]: [CHAT] HaveABadTime: /command
+[15:05:25] [Client thread/INFO]: [CHAT] Wolfies_pvp: //replace stone air,stone
+[15:05:26] [Client thread/INFO]: [CHAT] ghost13: /tp aaaaaaaaaa ghost13
+[15:05:27] [Client thread/INFO]: [CHAT] Matta: //set redwool
+[15:05:27] [Client thread/INFO]: [CHAT] mcantwell2u: /worldedit help 11
+[15:05:27] [Client thread/INFO]: [CHAT] mcantwell2u: /worldedit help 11
+[15:05:28] [Client thread/INFO]: [CHAT] < 123LadyBug321> i had 1 but it expired (
+[15:05:30] [Client thread/INFO]: [CHAT] Mac_OS_X - Blocking all commands for mcantwell2u
+[15:05:31] [Client thread/INFO]: [CHAT] Goseale: /give @p minecraft:stone 1 0 {Unbreakable:1,display:{Name:"This is a test"},ench:[{id:0,lvl:500}]}
+[15:05:31] [Client thread/INFO]: [CHAT] ThunderSlayers: /peoples invisibles
+[15:05:31] [Client thread/INFO]: [CHAT] Matta: /undo
+[15:05:33] [Client thread/INFO]: [CHAT] [Server:Mac_OS_X] Stop spamming
+[15:05:33] [Client thread/INFO]: [CHAT] ghost13: /tp aaaaaaaaaa ghost13
+[15:05:33] [Client thread/INFO]: [CHAT] Profanwolf joined the game
+[15:05:34] [Client thread/INFO]: [CHAT] <Superguy121> what about a realm
+[15:05:34] [Client thread/INFO]: [CHAT] Matta: /undo
+[15:05:35] [Client thread/INFO]: [CHAT] mcantwell2u: //replace air
+[15:05:35] [Client thread/INFO]: [CHAT] LMS_3: /enchant
+[15:05:36] [Client thread/INFO]: [CHAT] lacklinGAMING: /give lacklinGAMING 322:1 64 name:&4Death_&1Gapples
+[15:05:37] [Client thread/INFO]: [CHAT] LMS_3: /enchant list
+[15:05:37] [Client thread/INFO]: [CHAT] < TheFrostWalker> LAG
+[15:05:37] [Client thread/INFO]: [CHAT] < Imposter> No
+[15:05:37] [Client thread/INFO]: [CHAT] Wolfies_pvp: /up 1
+[15:05:37] [Client thread/INFO]: [CHAT] ethanb13431: /Survival
+[15:05:38] [Client thread/INFO]: [CHAT] ghost13: /tp aaaaaaaaaa ghost13
+[15:05:40] [Client thread/INFO]: [CHAT] Mac_OS_X - Unblocking all commands for mcantwell2u
+[15:05:40] [Client thread/INFO]: [CHAT] DannySCM: /potion add increase_strength 100000000 1000000
+[15:05:44] [Client thread/INFO]: [CHAT] <Superguy121> i would join your server
+[15:05:44] [Client thread/INFO]: [CHAT] FireCrystal12 left the game.
+[15:05:44] [Client thread/INFO]: [CHAT] HaveABadTime: /suck my fuck
+[15:05:44] [Client thread/INFO]: [CHAT] ethanb13431: /SPEED 0
+[15:05:44] [Client thread/INFO]: [CHAT] < Imposter> Ok
+[15:05:44] [Client thread/INFO]: [CHAT] HaloZone2908: /spawn
+[15:05:44] [Client thread/INFO]: [CHAT] HydraSlayer91: /gms
+[15:05:44] [Client thread/INFO]: [CHAT] Wolfies_pvp: //replace air stone,air
+[15:05:45] [Client thread/INFO]: [CHAT] Profanwolf: /fly
+[15:05:45] [Client thread/INFO]: [CHAT] <mcantwell2u> Whyd you block my commands?
+[15:05:45] [Client thread/INFO]: [CHAT] ghost13: /tp aaaaaaaaaa ghost13
+[15:05:46] [Client thread/INFO]: [CHAT] LMS_3: /enchant add sharpness
+[15:05:46] [Client thread/INFO]: [CHAT] Lyreas: /hat
+[15:05:48] [Client thread/INFO]: [CHAT] < Goseale> why my command do not work it says player not found
+[15:05:48] [Client thread/INFO]: [CHAT] Profanwolf: /fly
+[15:05:48] [Client thread/INFO]: [CHAT] LMS_3: /enchant add sharpness 1
+[15:05:48] [Client thread/INFO]: [CHAT] lacklinGAMING: /give lacklinGAMING steak 64 name:&4Death_&1Steak
+[15:05:48] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> Because
+[15:05:49] [Client thread/INFO]: [CHAT] DannySCM: /potion list
+[15:05:49] [Client thread/INFO]: [CHAT] ethanb13431: /speed 1
+[15:05:49] [Client thread/INFO]: [CHAT] < Imposter> zaxinvex.aternos.me
+[15:05:50] [Client thread/INFO]: [CHAT] LMS_3: /enchant add sharp 1
+[15:05:50] [Client thread/INFO]: [CHAT] < Hydra> walking around
+[15:05:51] [Client thread/INFO]: [CHAT] ghost13: /tp aaaaaaaaaa ghost13
+[15:05:53] [Client thread/INFO]: [CHAT] [STA] <Mac_OS_X> you're doing them twice
+[15:05:55] [Client thread/INFO]: [CHAT] zaxinvex left the game.
+[15:05:55] [Client thread/INFO]: [CHAT] lacklinGAMING: /name
+[15:05:56] [Client thread/INFO]: [CHAT] CaptainGuy100 joined the game
+[15:05:58] [Client thread/INFO]: [CHAT] Welcome CaptainGuy100 to the server!
+[15:05:58] [Client thread/INFO]: [CHAT] HaveABadTime: /suck my fuck
+[15:05:58] [Client thread/INFO]: [CHAT] ghost13: /tp aaaaaaaaaa ghost13
+[15:05:58] [Client thread/INFO]: [CHAT] < Hydra> doing something
+[15:05:58] [Client thread/INFO]: [CHAT] <mcantwell2u> I didnt mean too xD
+[15:05:58] [Client thread/INFO]: [CHAT] LMS_3 left the game.
+[15:06:00] [Client thread/INFO]: [CHAT] ethanb13431 was killed trying to hurt hamiehamie
+[15:06:00] [Client thread/INFO]: [CHAT] aaaaaaaaaa left the game.
+[15:06:01] [Client thread/INFO]: [CHAT] Wolfies_pvp: //replace air stone,air
+[15:06:01] [Client thread/INFO]: [CHAT] mcantwell2u: /replace air
+[15:06:02] [Client thread/INFO]: [CHAT] aaaaaaaaaa joined the game
+[15:06:03] [Client thread/INFO]: [CHAT] Matta: //set iron
+[15:06:04] [Client thread/INFO]: [CHAT] ghost13: /tp aaaaaaaaaa 123LadyBug321
+[15:06:06] [Client thread/INFO]: [CHAT] ethanb13431 was slain by Kraft__Lawrence
+[15:06:08] [Client thread/INFO]: [CHAT] ghost13 has been a naughty, naughty boy.
+[15:06:08] [Client thread/INFO]: [CHAT] ghost13 died
+[15:06:11] [Client thread/INFO]: [CHAT] ethanb13431 was slain by Kraft__Lawrence
+[15:06:11] [Client thread/INFO]: [CHAT] <Wolfies_pvp> hi
+[15:06:11] [Client thread/INFO]: [CHAT] 123LadyBug321: /help
+[15:06:11] [Client thread/INFO]: [CHAT] 123LadyBug321: /help
+[15:06:12] [Client thread/INFO]: [CHAT] ghost13 was slain by Kraft__Lawrence
+[15:06:12] [Client thread/INFO]: [CHAT] ethanb13431 was slain by Kraft__Lawrence
+[15:06:13] [Client thread/INFO]: [CHAT] hamiehamie: /warp pvp
+[15:06:13] [Client thread/INFO]: [CHAT] Goseale: /give @p minecraft:stone 1 0 {Unbreakable:1,display:{Name:"This is a test"},ench:[{id:0,lvl:500}]}
+[15:06:14] [Client thread/INFO]: [CHAT] [Server:StevenNL2000] Don't tp others
+[15:06:14] [Client thread/INFO]: [CHAT] <Superguy121> thx
+[15:06:14] [Client thread/INFO]: [CHAT] Goseale: /give
+[15:06:15] [Client thread/INFO]: [CHAT] Wolfies_pvp has been a VERY naughty, naughty boy.
+[15:06:15] [Client thread/INFO]: [CHAT] Banning: Wolfies_pvp, IP: 174.48.*.* - Reason: Griefing
+[15:06:15] [Client thread/INFO]: [CHAT] Wolfies_pvp left the game.
+[15:06:15] [Client thread/INFO]: [CHAT] HaloZone2908: /survival
+[15:06:16] [Client thread/INFO]: [CHAT] Kraft__Lawrence has been a naughty, naughty boy.
+[15:06:16] [Client thread/INFO]: [CHAT] Kraft__Lawrence was slain by Profanwolf using [ｧ4ｧlYouｧfｧlTube Sword]
+[15:06:24] [Client thread/INFO]: [CHAT] DannySCM: /potion add increase_damage 100000000 1000000
+[15:06:24] [Client thread/INFO]: [CHAT] [Server:StevenNL2000] Don't spawnkill
+[15:06:24] [Client thread/INFO]: [CHAT] lacklinGAMING: /god
+[15:06:24] [Client thread/INFO]: [CHAT] < Kraft__Lawrence> why!
+[15:06:24] [Client thread/INFO]: [CHAT] <Superguy121> who has a realm pls tell me if you do
+[15:06:24] [Client thread/INFO]: [CHAT] [Server:VideoGameSmash12] Hey
+[15:06:25] [Client thread/INFO]: [CHAT] ghost13: /creative
+[15:07:09] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:07:44] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:07:49] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[15:07:49] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[15:07:50] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[15:07:50] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[15:07:50] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[15:07:50] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they値l be lost.
+[15:07:50] [Client thread/INFO]: [CHAT] You have no new mail.
+[15:08:05] [Client thread/INFO]: [CHAT] <CaptainGuy100> who has realms
+[15:08:05] [Client thread/INFO]: [CHAT] <Kraft__Lawrence> ty
+[15:08:05] [Client thread/INFO]: [CHAT] StevenNL2000 - Opping all players on the server
+[15:08:05] [Client thread/INFO]: [CHAT] You are now op!
+[15:08:06] [Client thread/INFO]: [CHAT] <Kraft__Lawrence> op me plz
+[15:08:08] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: Jeez, what is with this lag?!
+[15:08:26] [Client thread/INFO]: [CHAT] iXxDevxXi joined the game
+[15:08:27] [Client thread/INFO]: [CHAT] Uptime: 1 minute 7 seconds
+[15:08:27] [Client thread/INFO]: [CHAT] Current TPS = 20
+[15:08:27] [Client thread/INFO]: [CHAT] Maximum memory: 2,035 MB.
+[15:08:27] [Client thread/INFO]: [CHAT] Allocated memory: 462 MB.
+[15:08:27] [Client thread/INFO]: [CHAT] Free memory: 127 MB.
+[15:08:27] [Client thread/INFO]: [CHAT] World "miwo-land": 656 chunks, 4 entities, 13 tiles.
+[15:08:27] [Client thread/INFO]: [CHAT] World "flatlands": 418 chunks, 15 entities, 44 tiles.
+[15:08:27] [Client thread/INFO]: [CHAT] World "adminworld": 268 chunks, 0 entities, 2,858 tiles.
+[15:08:27] [Client thread/INFO]: [CHAT] Mac_OS_X - Tempbanning: Kraft__Lawrence for 5 minutes.
+[15:08:27] [Client thread/INFO]: [CHAT] Kraft__Lawrence left the game.
+[15:08:28] [Client thread/INFO]: [CHAT] <ShadowNinja_33> LMS_3 stop ur causing lag
+[15:08:28] [Client thread/INFO]: [CHAT] Vahalin joined the game
+[15:08:28] [Client thread/INFO]: [CHAT] Welcome Vahalin to the server!
+[15:08:32] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [STA]: That wasn't lag, that was just a crash. I don't think we would have gotten out of it
+[15:08:32] [Client thread/INFO]: [CHAT] <ShadowNinja_33> with fireworks
+[15:08:45] [Client thread/INFO]: [CHAT] <Vahalin> t'
+[15:08:45] [Client thread/INFO]: [CHAT] <LMS_3> no im not..
+[15:08:45] [Client thread/INFO]: [CHAT] <LMS_3> ill stop then..
+[15:08:45] [Client thread/INFO]: [CHAT] Mac_OS_X is a Telnet Admin
+[15:08:45] [Client thread/INFO]: [CHAT] Mac_OS_X joined the game
+[15:08:45] [Client thread/INFO]: [CHAT] HydraSlayer91 joined the game
+[15:08:45] [Client thread/INFO]: [CHAT] Teleporting...
+[15:08:46] [Client thread/INFO]: [CHAT] <ShadowNinja_33> good
+[15:08:49] [Client thread/INFO]: [CHAT] <HydraSlayer91> im fune
+[15:08:52] [Client thread/INFO]: [CHAT] Rcon - Turning player validation off.
+[15:09:32] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:09:34] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[15:09:34] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[15:09:49] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[15:09:49] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[15:09:49] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[15:09:49] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they値l be lost.
+[15:09:49] [Client thread/INFO]: [CHAT] You have no new mail.
+[15:09:49] [Client thread/INFO]: [CHAT] Welcome VideoGameSmash12 to the server!
+[15:09:49] [Client thread/INFO]: [CHAT] <ghost13> op me
+[15:09:49] [Client thread/INFO]: [CHAT] rrj112 left the game.
+[15:09:49] [Client thread/INFO]: [CHAT] [HaveABadTime -> me] I hate you!
+[15:09:49] [Client thread/INFO]: [CHAT] <HydraSlayer91> same
+[15:09:49] [Client thread/INFO]: [CHAT] Mac_OS_X - Uncaging all players
+[15:09:49] [Client thread/INFO]: [CHAT] DJSlayerX joined the game
+[15:09:49] [Client thread/INFO]: [CHAT] Diamondsackboy joined the game
+[15:09:49] [Client thread/INFO]: [CHAT] Welcome DJSlayerX to the server!
+[15:09:49] [Client thread/INFO]: [CHAT] Welcome  JohnCena to the server!
+[15:09:49] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [STA]: I always have to manually "click" the scrolling text into place to make Telnet scroll again
+[15:09:49] [Client thread/INFO]: [CHAT] Mac_OS_X - Removing all GLASS within 20 blocks of all players... Brace for lag!
+[15:09:50] [Client thread/INFO]: [CHAT] Mac_OS_X - Remove complete! 106 blocks removed.
+[15:09:51] [Client thread/INFO]: [CHAT] <mcantwell2u> Have a bad time hates me!
+[15:09:53] [Client thread/INFO]: [CHAT] <Mac_OS_X> Shit
+[15:09:53] [Client thread/INFO]: [CHAT] KawaiiKurama is a Telnet Admin
+[15:09:53] [Client thread/INFO]: [CHAT] KawaiiKurama joined the game
+[15:09:53] [Client thread/INFO]: [CHAT] Welcome KawaiiKurama to the server!
+[15:09:54] [Client thread/INFO]: [CHAT] StevenNL2000 - Opping all players on the server
+[15:09:54] [Client thread/INFO]: [CHAT] You are now op!
+[15:10:11] [Client thread/INFO]: [CHAT] <DJSlayerX> Hey guys
+[15:10:11] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [STA]: Hi
+[15:10:11] [Client thread/INFO]: [CHAT] <Miner0818> wtf
+[15:10:12] [Client thread/INFO]: [CHAT] [ADMIN] Mac_OS_X [STA]: i didnt mean to do that
+[15:10:12] [Client thread/INFO]: [CHAT] <ShadowNinja_33> ya me too
+[15:10:12] [Client thread/INFO]: [CHAT] <Vahalin> hi
+[15:10:12] [Client thread/INFO]: [CHAT] ThunderSlayers left the game.
+[15:10:12] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> Lagging like shit!
+[15:10:12] [Client thread/INFO]: [CHAT] [iXxDevxXi -> me] The server is epic.... ....
+[15:10:12] [Client thread/INFO]: [CHAT] <CaptainGuy100> ghostttt
+[15:10:12] [Client thread/INFO]: [CHAT] CommandSpy enabled.
+[15:10:12] [Client thread/INFO]: [CHAT] HaveABadTime: /gc
+[15:10:14] [Client thread/INFO]: [CHAT] <HydraSlayer91> wew
+[15:10:27] [Client thread/INFO]: [CHAT] Diamondsackboy: /nick NEDZ HALP
+[15:10:27] [Client thread/INFO]: [CHAT] LMS_3: /r ok
+[15:10:27] [Client thread/INFO]: [CHAT] HydraSlayer91: /r wut
+[15:10:27] [Client thread/INFO]: [CHAT] DJSlayerX: /war[ ElytraFly
+[15:10:27] [Client thread/INFO]: [CHAT] ghost13: /tp ghost13 ghost13
+[15:10:27] [Client thread/INFO]: [CHAT] DJSlayerX: /r :D
+[15:10:27] [Client thread/INFO]: [CHAT] ghost13: /tp ghost13 ghost13
+[15:10:27] [Client thread/INFO]: [CHAT] ghost13: /tp ghost13 ghost13
+[15:10:27] [Client thread/INFO]: [CHAT] LMS_3: /mall
+[15:10:28] [Client thread/INFO]: [CHAT] ghost13: /tp ghost13 ghost13
+[15:10:28] [Client thread/INFO]: [CHAT] ghost13: /tp ghost13 ghost13
+[15:10:28] [Client thread/INFO]: [CHAT] ghost13: /tp ghost13 ghost13
+[15:10:28] [Client thread/INFO]: [CHAT] Vahalin: /r
+[15:10:28] [Client thread/INFO]: [CHAT] ghost13: /tp ghost13 ghost13
+[15:10:28] [Client thread/INFO]: [CHAT] LMS_3: /msgall
+[15:10:28] [Client thread/INFO]: [CHAT] <CaptainGuy100> ok
+[15:10:28] [Client thread/INFO]: [CHAT] DJSlayerX: /r what server tho?
+[15:10:28] [Client thread/INFO]: [CHAT] Diamondsackboy: /nick Diamondsackboy NEDZ HALP
+[15:10:28] [Client thread/INFO]: [CHAT] HydraSlayer91: /r yes it is
+[15:10:28] [Client thread/INFO]: [CHAT] HaveABadTime: /suck my fuck... suck my fuck... suck my fuck
+[15:10:28] [Client thread/INFO]: [CHAT] Seb: /r yeah it is
+[15:10:29] [Client thread/INFO]: [CHAT] HydraSlayer91: /spawn
+[15:10:29] [Client thread/INFO]: [CHAT] ghost13: /tp iXxDevxXi ghost13
+[15:10:29] [Client thread/INFO]: [CHAT] LMS_3: /spawn
+[15:10:33] [Client thread/INFO]: [CHAT] ShadowNinja_33: /r ok ik it i
+[15:10:33] [Client thread/INFO]: [CHAT] DJSlayerX: /warp ElytraFly
+[15:10:33] [Client thread/INFO]: [CHAT] <Mac_OS_X> asd
+[15:10:52] [Client thread/INFO]: [CHAT] mcantwell2u: //set air
+[15:10:52] [Client thread/INFO]: [CHAT] LMS_3: /fly
+[15:10:52] [Client thread/INFO]: [CHAT] <Mac_OS_X> WHYT
+[15:10:52] [Client thread/INFO]: [CHAT] LMS_3: /fly
+[15:10:52] [Client thread/INFO]: [CHAT] <Miner0818> Warp pvphere to pvp!
+[15:10:52] [Client thread/INFO]: [CHAT] CaptainGuy100: /back
+[15:10:52] [Client thread/INFO]: [CHAT] <Mac_OS_X> WHY
+[15:10:52] [Client thread/INFO]: [CHAT] CaptainGuy100: /back
+[15:10:52] [Client thread/INFO]: [CHAT] ShadowNinja_33: /r is*
+[15:10:52] [Client thread/INFO]: [CHAT] ghost13: /tp all ghost13
+[15:10:52] [Client thread/INFO]: [CHAT] Gage: /tell iXxDevxXi What?
+[15:10:52] [Client thread/INFO]: [CHAT] CaptainGuy100: /back
+[15:10:52] [Client thread/INFO]: [CHAT] iXxDevxXi: /report ghost13 teleported me
+[15:10:52] [Client thread/INFO]: [CHAT] [REPORTS] iXxDevxXi has reported ghost13 for teleported me
+[15:10:52] [Client thread/INFO]: [CHAT] mcantwell2u: //undo
+[15:10:52] [Client thread/INFO]: [CHAT] LMS_3: /warp pvp
+[15:10:52] [Client thread/INFO]: [CHAT] CaptainGuy100: /spawn
+[15:10:52] [Client thread/INFO]: [CHAT] DJSlayerX: /gms
+[15:10:52] [Client thread/INFO]: [CHAT] HaveABadTime: /help sr
+[15:10:52] [Client thread/INFO]: [CHAT] ghost13 has been a naughty, naughty boy.
+[15:10:52] [Client thread/INFO]: [CHAT] ghost13 died
+[15:10:52] [Client thread/INFO]: [CHAT] ShadowNinja_33: /warp pvp
+[15:10:52] [Client thread/INFO]: [CHAT] [Server:StevenNL2000] Don't tp others
+[15:10:52] [Client thread/INFO]: [CHAT] Miner0818: /warp pvphere
+[15:10:52] [Client thread/INFO]: [CHAT] Seb: /gms
+[15:10:52] [Client thread/INFO]: [CHAT] HaveABadTime: /sr help
+[15:10:52] [Client thread/INFO]: [CHAT] < NEDZ> Guys How Do You Add An Admin With The TF Mod Installed?
+[15:10:52] [Client thread/INFO]: [CHAT] nahidu722 joined the game
+[15:10:52] [Client thread/INFO]: [CHAT] Welcome nahidu722 to the server!
+[15:10:56] [Client thread/INFO]: [CHAT] ElementalDreamer is a Super Admin
+[15:10:56] [Client thread/INFO]: [CHAT] ElementalDreamer joined the game
+[15:11:48] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:11:49] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[15:11:49] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[15:11:50] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[15:11:50] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[15:11:50] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[15:11:50] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they値l be lost.
+[15:11:50] [Client thread/INFO]: [CHAT] You have no new mail.
+[15:11:52] [Client thread/INFO]: [CHAT] <ShadowNinja_33> it is migit as crap
+[15:11:52] [Client thread/INFO]: [CHAT] <iXxDevxXi> who even knows me
+[15:11:52] [Client thread/INFO]: [CHAT] <DJSlayerX> see what happend xd
+[15:11:53] [Client thread/INFO]: [CHAT] CrackedOut joined the game
+[15:11:53] [Client thread/INFO]: [CHAT] Welcome CrackedOut to the server!
+[15:11:53] [Client thread/INFO]: [CHAT] Mac_OS_X left the game.
+[15:11:54] [Client thread/INFO]: [CHAT] <iXxDevxXi> XD
+[15:12:09] [Client thread/INFO]: [CHAT] <iXxDevxXi> im a name changer
+[15:12:09] [Client thread/INFO]: [CHAT] <CrackedOut> hi
+[15:12:09] [Client thread/INFO]: [CHAT] StevenNL2000 - Opping all players on the server
+[15:12:09] [Client thread/INFO]: [CHAT] You are now op!
+[15:12:09] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> lagstorm
+[15:12:09] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[15:12:09] [Client thread/INFO]: [CHAT] <ShadowNinja_33> it is horrible Miner0818
+[15:12:12] [Client thread/INFO]: [CHAT] Goseale joined the game
+[15:12:31] [Client thread/INFO]: [CHAT] <DJSlayerX> STA means Super Telnet Admin right VideoGameSmash12?
+[15:12:31] [Client thread/INFO]: [CHAT] * iXxDevxXi People wont remember my generation, go to powercraft.me and do /lookup iXxDevxXi
+[15:12:31] [Client thread/INFO]: [CHAT] <ShadowNinja_33> It is BAD
+[15:12:31] [Client thread/INFO]: [CHAT] [SA] < FaZeMelon> Yes
+[15:12:31] [Client thread/INFO]: [CHAT] Diamondsackboy joined the game
+[15:12:31] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> God fucking damnit
+[15:12:31] [Client thread/INFO]: [CHAT] That command is blocked.
+[15:12:50] [Client thread/INFO]: [CHAT] <HydraSlayer91> Videogaemrood - lagstorm
+[15:12:50] [Client thread/INFO]: [CHAT] Diamondsackboy left the game.
+[15:12:50] [Client thread/INFO]: [CHAT] [ADMIN] xRubyMC [Console]: /skin change
+[15:12:50] [Client thread/INFO]: [CHAT] OhSnapItsLiv left the game.
+[15:12:51] [Client thread/INFO]: [CHAT] <iXxDevxXi> if u say lag it will lag you more
+[15:12:51] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> I am lagging like shit!
+[15:12:51] [Client thread/INFO]: [CHAT] Use '/skin help' for help.
+[15:12:51] [Client thread/INFO]: [CHAT] CommandSpy enabled.
+[15:12:55] [Client thread/INFO]: [CHAT] <iXxDevxXi> if u say lag it will lag you more...
+[15:12:55] [Client thread/INFO]: [CHAT] Gage: /lockup iXxDevxXi
+[15:12:55] [Client thread/INFO]: [CHAT] DannySCM: /potion add regeneration 1000000000 1000000
+[15:12:56] [Client thread/INFO]: [CHAT] <ShadowNinja_33> Miner0818 change it
+[15:13:33] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:13:40] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:13:45] [Server Connector #10/ERROR]: Couldn't connect to server
+java.net.UnknownHostException: play.totalfreedom.me
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1259) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1171) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1105) ~[?:1.8.0_25]
+	at java.net.InetAddress.getByName(InetAddress.java:1055) ~[?:1.8.0_25]
+	at bei$1.run(SourceFile:58) [1.9.jar:?]
+[15:13:54] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:13:56] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[15:13:56] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[15:13:56] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[15:13:56] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[15:13:56] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[15:13:56] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they値l be lost.
+[15:13:56] [Client thread/INFO]: [CHAT] You have no new mail.
+[15:13:56] [Client thread/INFO]: [CHAT] [ADMIN] xRubyMC [Console]: What is 438?
+[15:13:57] [Client thread/INFO]: [CHAT] Kraft__Lawrence left the game.
+[15:14:02] [Client thread/INFO]: [CHAT] <HydraSlayer91> lol
+[15:14:07] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [STA]: Splash potion
+[15:14:07] [Client thread/INFO]: [CHAT] CommandSpy enabled.
+[15:14:10] [Client thread/INFO]: [CHAT] <iXxDevxXi> u guys wont understand
+[15:14:10] [Client thread/INFO]: [CHAT] eaarth: /thru
+[15:14:11] [Client thread/INFO]: [CHAT] < xXZhyroXx> I remember you Hydra
+[15:14:11] [Client thread/INFO]: [CHAT] Seb: /saconfig add ElementalDreamer
+[15:14:11] [Client thread/INFO]: [CHAT] ShadowNinja_33: /nickname Chiseled
+[15:14:11] [Client thread/INFO]: [CHAT] DannySCM: /potion add health_boost 10000000 1000
+[15:14:13] [Client thread/INFO]: [CHAT] <iXxDevxXi> i am messaging all
+[15:14:15] [Client thread/INFO]: [CHAT] [ADMIN] xRubyMC [Console]: Normal?
+[15:14:15] [Client thread/INFO]: [CHAT] Gage: /tp ixx
+[15:14:15] [Client thread/INFO]: [CHAT] <iXxDevxXi> ;p
+[15:14:15] [Client thread/INFO]: [CHAT] rrj112 is an Impostor
+[15:14:15] [Client thread/INFO]: [CHAT] Warning: rrj112 has been flagged as an impostor and has been frozen!
+[15:14:15] [Client thread/INFO]: [CHAT] rrj112 joined the game
+[15:14:33] [Client thread/INFO]: [CHAT] ThunderSlayers: /tell iXxDevxXi i can be super admin in you server?
+[15:14:33] [Client thread/INFO]: [CHAT] <HydraSlayer91> You do?
+[15:14:33] [Client thread/INFO]: [CHAT] DannySCM: /potion add health_boost 10000000 1000
+[15:14:33] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [STA]: Yes
+[15:14:33] [Client thread/INFO]: [CHAT] eaarth: /near
+[15:14:33] [Client thread/INFO]: [CHAT] HaveABadTime: /potion add invisibility 999999 99999
+[15:14:33] [Client thread/INFO]: [CHAT] DJSlayerX: /r &5hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi
+[15:14:33] [Client thread/INFO]: [CHAT] Profanwolf: /creative
+[15:14:33] [Client thread/INFO]: [CHAT] <rrj112> connected with an Android device using MineChat
+[15:14:33] [Client thread/INFO]: [CHAT] iXxDevxXi: /r sure
+[15:14:33] [Client thread/INFO]: [CHAT] [ADMIN] xRubyMC [Console]: Oh okay
+[15:14:33] [Client thread/INFO]: [CHAT] DJSlayerX: /r &dhi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi
+[15:14:33] [Client thread/INFO]: [CHAT] < Goseale> Use the command to put enchants at levels 500 or more
+[15:14:33] [Client thread/INFO]: [CHAT] < Chef> Chiseled :D
+[15:14:33] [Client thread/INFO]: [CHAT] LMS_3: /tp rrj112
+[15:14:33] [Client thread/INFO]: [CHAT] iXxDevxXi: /r ..
+[15:14:33] [Client thread/INFO]: [CHAT] jmm1121: /warp elytra
+[15:14:33] [Client thread/INFO]: [CHAT] DannySCM: /potion add speed 10000000 100
+[15:14:33] [Client thread/INFO]: [CHAT] DJSlayerX: /r &d&l hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi
+[15:14:33] [Client thread/INFO]: [CHAT] Profanwolf: /suicide
+[15:14:33] [Client thread/INFO]: [CHAT] Profanwolf died
+[15:14:33] [Client thread/INFO]: [CHAT] Player Profanwolf took their own life.
+[15:14:33] [Client thread/INFO]: [CHAT] DJSlayerX: /r :P
+[15:14:34] [Client thread/INFO]: [CHAT] < Goseale> give @a minecraft:stone 1 0 {Unbreakable:1,display:{Name:"This is a test"},ench:[{id:0,lvl:500}]}
+[15:14:34] [Client thread/INFO]: [CHAT] Miner0818: /clear
+[15:14:35] [Client thread/INFO]: [CHAT] [Server:VideoGameSmash12] Verify, and Seb, what are you doing?
+[15:15:11] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:15:15] [Server Connector #12/ERROR]: Couldn't connect to server
+java.net.ConnectException: Connection refused: no further information: play.totalfreedom.me/64.34.190.101:25565
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_25]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716) ~[?:1.8.0_25]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:208) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:287) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:528) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_25]
+[15:15:29] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:15:33] [Server Connector #13/ERROR]: Couldn't connect to server
+java.net.ConnectException: Connection refused: no further information: play.totalfreedom.me/64.34.190.101:25565
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_25]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716) ~[?:1.8.0_25]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:208) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:287) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:528) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_25]
+[15:17:04] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:17:24] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:17:33] [Server Connector #15/ERROR]: Couldn't connect to server
+java.net.ConnectException: Connection refused: no further information: play.totalfreedom.me/64.34.190.101:25565
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_25]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716) ~[?:1.8.0_25]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:208) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:287) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:528) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_25]
+[15:17:43] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:18:04] [Server Connector #16/ERROR]: Couldn't connect to server
+java.net.ConnectException: Connection timed out: no further information: play.totalfreedom.me/64.34.190.101:25565
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_25]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716) ~[?:1.8.0_25]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:208) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:287) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:528) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_25]
+[15:19:52] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:19:54] [Server Connector #17/ERROR]: Couldn't connect to server
+java.net.ConnectException: Connection refused: no further information: play.totalfreedom.me/64.34.190.101:25565
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_25]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716) ~[?:1.8.0_25]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:208) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:287) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:528) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_25]
+[15:25:35] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:25:38] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[15:25:38] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[15:25:39] [Client thread/INFO]: [CHAT] Goseale joined the game
+[15:25:39] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[15:25:39] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[15:25:39] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[15:25:39] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they'll be lost.
+[15:25:39] [Client thread/INFO]: [CHAT] You have no new mail.
+[15:25:39] [Client thread/INFO]: [CHAT] [ADMIN] rrj112 [STA]: what
+[15:25:40] [Client thread/INFO]: [CHAT] Superguy121 joined the game
+[15:25:55] [Client thread/INFO]: [CHAT] Bradybug115 was shot by NikolasLawson
+[15:25:55] [Client thread/INFO]: [CHAT] BlueVsRed12 joined the game
+[15:25:55] [Client thread/INFO]: [CHAT] < Kraft__Lawrence> how do u do unbrakeable???
+[15:25:55] [Client thread/INFO]: [CHAT] < NEDZ> I Tryed /saconfig I Cant Add myself As Admin...
+[15:25:55] [Client thread/INFO]: [CHAT] <Superguy121> does anyone have a realm
+[15:25:59] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[15:25:59] [Client thread/INFO]: [CHAT] Uptime: 18 minutes 39 seconds
+[15:25:59] [Client thread/INFO]: [CHAT] Current TPS = 18.91
+[15:25:59] [Client thread/INFO]: [CHAT] Maximum memory: 2,035 MB.
+[15:25:59] [Client thread/INFO]: [CHAT] Allocated memory: 568 MB.
+[15:25:59] [Client thread/INFO]: [CHAT] Free memory: 180 MB.
+[15:25:59] [Client thread/INFO]: [CHAT] World "miwo-land": 1,642 chunks, 58 entities, 23 tiles.
+[15:25:59] [Client thread/INFO]: [CHAT] World "flatlands": 1,263 chunks, 44 entities, 47 tiles.
+[15:25:59] [Client thread/INFO]: [CHAT] World "adminworld": 276 chunks, 1 entities, 2,917 tiles.
+[15:25:59] [Client thread/INFO]: [CHAT] TPS from last 1m, 5m, 15m: 19.52, 19.58, 19.72
+[15:26:01] [Client thread/INFO]: [CHAT] [REPORTS] Bradybug115 has reported NikolasLawson for Continous Killing Without Permission
+[15:26:04] [Client thread/INFO]: [CHAT] <Superguy121> who has a realm pls tell me if you do
+[15:26:04] [Client thread/INFO]: [CHAT] < TheFrostWalker> ThomasYoussef03 is gmc pvp
+[15:26:29] [Client thread/INFO]: [CHAT] [STA] < StevenNL2000> We have security measures
+[15:26:29] [Client thread/INFO]: [CHAT] <ThomasYoussef03> no
+[15:26:29] [Client thread/INFO]: [CHAT] < TheFrostWalker> you are
+[15:26:29] [Client thread/INFO]: [CHAT] <jmm1121> only other admins can
+[15:26:29] [Client thread/INFO]: [CHAT] [DarkRealm] <_iCorruptionMC_> there y'go iiirekt
+[15:26:29] [Client thread/INFO]: [CHAT] <ThomasYoussef03> my stick is made with -32000 of sharpness
+[15:26:29] [Client thread/INFO]: [CHAT] <ThomasYoussef03> i can't make u die
+[15:26:29] [Client thread/INFO]: [CHAT] [STA] <JimmyTDG> lol
+[15:26:29] [Client thread/INFO]: [CHAT] StarFallEclipse [<3] < xXKissisessXx> ...
+[15:26:38] [Client thread/INFO]: [CHAT] <ThomasYoussef03> i don't want to hurt u
+[15:26:38] [Client thread/INFO]: [CHAT] StarFallEclipse [<3] < xXKissisessXx> you
+[15:26:38] [Client thread/INFO]: [CHAT] [DarkRealmLeader] < iiiRekt> _iCorruptionMC_ Nice
+[15:26:38] [Client thread/INFO]: [CHAT] StarFallEclipse [<3] < xXKissisessXx> motherfucker
+[15:26:38] [Client thread/INFO]: [CHAT] [STA] <JimmyTDG> Hi me
+[15:26:39] [Client thread/INFO]: [CHAT] <ThomasYoussef03> just making u more far from me
+[15:26:40] [Client thread/INFO]: [CHAT] [DarkRealm] <_iCorruptionMC_> kk brb
+[15:26:50] [Client thread/INFO]: [CHAT] *  iiiRekt  Created Crew [DarkRealm] Join Join Now
+[15:26:50] [Client thread/INFO]: [CHAT] Matta was shot by NikolasLawson
+[15:26:50] [Client thread/INFO]: [CHAT] < NEDZ> How Do I Add Myself As Admin?
+[15:26:50] [Client thread/INFO]: [CHAT] [REPORTS] Bradybug115 has reported ThomasYoussef03 for Troll GMC PVP
+[15:26:50] [Client thread/INFO]: [CHAT] [Server:VideoGameSmash12] On here?
+[15:26:52] [Client thread/INFO]: [CHAT] < Goseale> plz stop lagging
+[15:26:57] [Client thread/INFO]: [CHAT] Marius_Nightfire left the game.
+[15:26:57] [Client thread/INFO]: [CHAT] VideoGameSmash12 - Removing all server entities.
+[15:27:01] [Client thread/INFO]: [CHAT] Superguy121 left the game.
+[15:27:02] [Client thread/INFO]: [CHAT] VideoGameSmash12 - Purging all entities
+[15:27:10] [Client thread/INFO]: [CHAT] < NEDZ> On My Server
+[15:27:16] [Client thread/INFO]: [CHAT] <AnonymuosCraft23> lag
+[15:27:16] [Client thread/INFO]: [CHAT] < Goseale> ahhhhh}
+[15:27:16] [Client thread/INFO]: [CHAT] ThomasYoussef03 has been a naughty, naughty boy.
+[15:27:16] [Client thread/INFO]: [CHAT]   Reason: GMCPvP 2/3
+[15:27:16] [Client thread/INFO]: [CHAT] ThomasYoussef03 died
+[15:27:17] [Client thread/INFO]: [CHAT] [DarkRealmLeader] < iiiRekt> whats a number
+[15:27:18] [Client thread/INFO]: [CHAT] nickernoose joined the game
+[15:27:18] [Client thread/INFO]: [CHAT] Welcome nickernoose to the server!
+[15:27:21] [Client thread/INFO]: [CHAT] ThomasYoussef03, ThunderSlayers
+[15:27:22] [Client thread/INFO]: [CHAT] StarFallEclipse left the game.
+[15:27:22] [Client thread/INFO]: [CHAT]  ====== WhoIs: ThomasYoussef03 ======
+[15:27:22] [Client thread/INFO]: [CHAT]  - Nick:  TYTjheBeast
+[15:27:22] [Client thread/INFO]: [CHAT]  - Health: 20/20
+[15:27:22] [Client thread/INFO]: [CHAT]  - Hunger: 20/20 (+5 saturation)
+[15:27:22] [Client thread/INFO]: [CHAT]  - Exp: 0 (Level 0)
+[15:27:22] [Client thread/INFO]: [CHAT]  - Location: (flatlands, 121, 50, 1)
+[15:27:22] [Client thread/INFO]: [CHAT]  - Money: $0
+[15:27:22] [Client thread/INFO]: [CHAT]  - IP Address: /87.9.26.51
+[15:27:22] [Client thread/INFO]: [CHAT]  - Gamemode: survival
+[15:27:22] [Client thread/INFO]: [CHAT]  - God mode: false
+[15:27:22] [Client thread/INFO]: [CHAT]  - OP: false
+[15:27:22] [Client thread/INFO]: [CHAT]  - Fly mode: false (not flying)
+[15:27:22] [Client thread/INFO]: [CHAT]  - AFK: false
+[15:27:22] [Client thread/INFO]: [CHAT]  - Jail: false
+[15:27:22] [Client thread/INFO]: [CHAT]  - Muted: false
+[15:27:22] [Client thread/INFO]: [CHAT] [DarkRealmLeader] < iiiRekt> JK
+[15:27:40] [Client thread/INFO]: [CHAT] [SA] < FaZeMelon> 69
+[15:27:40] [Client thread/INFO]: [CHAT] ILOVECHEETOS left the game.
+[15:27:40] [Client thread/INFO]: [CHAT] < BlueVsRed> Who's doing the fireworks
+[15:27:40] [Client thread/INFO]: [CHAT] ILOVECHEETOS joined the game
+[15:27:40] [Client thread/INFO]: [CHAT] [DarkRealmLeader] < iiiRekt> idk what a letter is
+[15:27:40] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [Console]: Firework spam is causing huge lag at the spawn
+[15:27:40] [Client thread/INFO]: [CHAT] < Goseale> plz stop this fireworks
+[15:27:41] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [Console]: Yeah
+[15:27:42] [Client thread/INFO]: [CHAT] nickernoose left the game.
+[15:31:20] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:31:20] [Server Connector #19/ERROR]: Couldn't connect to server
+java.net.UnknownHostException: play.totalfreedom.me
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[?:1.8.0_25]
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:907) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1302) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1255) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1171) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1105) ~[?:1.8.0_25]
+	at java.net.InetAddress.getByName(InetAddress.java:1055) ~[?:1.8.0_25]
+	at bei$1.run(SourceFile:58) [1.9.jar:?]
+[15:31:26] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:31:27] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[15:31:27] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[15:31:41] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[15:31:41] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[15:31:41] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[15:31:41] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they値l be lost.
+[15:31:41] [Client thread/INFO]: [CHAT] You have no new mail.
+[15:31:41] [Client thread/INFO]: [CHAT] [DarkRealmLeader] < iiiRekt> makin skybase
+[15:31:41] [Client thread/INFO]: [CHAT] XtraProtecter left the game.
+[15:31:41] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [STA]: We would see them in the logs, but sure
+[15:31:41] [Client thread/INFO]: [CHAT] ninjagirl948 joined the game
+[15:31:41] [Client thread/INFO]: [CHAT] [DarkRealm] <_iCorruptionMC_> underground base you mean?
+[15:31:42] [Client thread/INFO]: [CHAT] DannySCM was shot by NikolasLawson
+[15:31:43] [Client thread/INFO]: [CHAT] [DarkRealmLeader] < iiiRekt> No
+[15:31:43] [Client thread/INFO]: [CHAT] TrueMetaKnight left the game.
+[15:31:46] [Client thread/INFO]: [CHAT] < Neptune> ?
+[15:32:00] [Client thread/INFO]: [CHAT] jesus left the game.
+[15:32:00] [Client thread/INFO]: [CHAT] TrueMetaKnight joined the game
+[15:32:01] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [Console]: elemental?
+[15:32:01] [Client thread/INFO]: [CHAT] vTwis_ left the game.
+[15:32:01] [Client thread/INFO]: [CHAT] < BlueVsRed> Go to /warp a to escape the lag at spawn
+[15:32:01] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: Yes?
+[15:32:04] [Client thread/INFO]: [CHAT] AnulSpanking joined the game
+[15:32:04] [Client thread/INFO]: [CHAT] Welcome AnulSpanking to the server!
+[15:32:05] [Client thread/INFO]: [CHAT] < MacElCapitan> There
+[15:32:09] [Client thread/INFO]: [CHAT] RaGeCheezzY left the game.
+[15:32:22] [Client thread/INFO]: [CHAT] <AnulSpanking> op me
+[15:32:22] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [Console]: You have fireworks on you?
+[15:32:22] [Client thread/INFO]: [CHAT] ThomasYoussef03 - Opping AnulSpanking
+[15:32:22] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> Fucking lag!
+[15:32:24] [Client thread/INFO]: [CHAT] JimmyTDG - Removing all server entities.
+[15:32:25] [Client thread/INFO]: [CHAT] < TYTheBeast> video
+[15:32:26] [Client thread/INFO]: [CHAT] <AnulSpanking> this is premium
+[15:32:26] [Client thread/INFO]: [CHAT] JimmyTDG - Purging all entities
+[15:32:42] [Client thread/INFO]: [CHAT] JimmyTDG - Purging all entities
+[15:32:42] [Client thread/INFO]: [CHAT] < TYTheBeast> can i tp u pls?
+[15:32:42] [Client thread/INFO]: [CHAT] [SA] < Neptune> stop
+[15:32:42] [Client thread/INFO]: [CHAT] <AnulSpanking> lol
+[15:32:42] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [Console]: hmm
+[15:32:42] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: They dont work, I had them in my inventory to check the ID.
+[15:32:44] [Client thread/INFO]: [CHAT] Teleporting...
+[15:32:44] [Client thread/INFO]: [CHAT] < BlueVsRed> Clear the inventory of everyone ffs
+[15:32:44] [Client thread/INFO]: [CHAT] ThomasYoussef03 has been a naughty, naughty boy.
+[15:32:44] [Client thread/INFO]: [CHAT] ThomasYoussef03 died
+[15:32:46] [Client thread/INFO]: [CHAT] [ADMIN] CodFish48 [SA]: im doing some landscaping lel
+[15:32:46] [Client thread/INFO]: [CHAT] [Server:ElementalDreamer] Do not tp others!
+[15:32:47] [Client thread/INFO]: [CHAT] < TYTheBeast> sry
+[15:32:57] [Client thread/INFO]: [CHAT] [SA] <CodFish48> wth
+[15:32:57] [Client thread/INFO]: [CHAT] <ILOVECHEETOS> ?
+[15:33:08] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:33:09] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[15:33:09] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[15:33:27] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[15:33:27] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[15:33:27] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[15:33:27] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they値l be lost.
+[15:33:27] [Client thread/INFO]: [CHAT] You have no new mail.
+[15:33:27] [Client thread/INFO]: [CHAT] PHP7 joined the game
+[15:33:27] [Client thread/INFO]: [CHAT] < TheFlash> t
+[15:33:27] [Client thread/INFO]: [CHAT] [Server:JimmyTDG] AnulSpanking Thank you for fixing the problem however do not do it with an admins permission
+[15:33:27] [Client thread/INFO]: [CHAT] [STA] <JimmyTDG> without*
+[15:34:18] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:34:18] [Server Connector #22/ERROR]: Couldn't connect to server
+java.net.UnknownHostException: play.totalfreedom.me
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1259) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1171) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1105) ~[?:1.8.0_25]
+	at java.net.InetAddress.getByName(InetAddress.java:1055) ~[?:1.8.0_25]
+	at bei$1.run(SourceFile:58) [1.9.jar:?]
+[15:34:23] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:34:24] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[15:34:24] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[15:34:24] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[15:34:24] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[15:34:24] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[15:34:24] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they値l be lost.
+[15:34:24] [Client thread/INFO]: [CHAT] You have no new mail.
+[15:34:25] [Client thread/INFO]: [CHAT] <Blademystic> i cleared myself
+[15:34:26] [Client thread/INFO]: [CHAT] [Server:ElementalDreamer] We did a mass clear to get rid of lag, no need to rage.
+[15:34:26] [Client thread/INFO]: [CHAT] VideoGameSmash12 - Closing the server to non-superadmins.
+[15:34:26] [Client thread/INFO]: [CHAT] HydraSlayer91 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] Bthurman12100 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] mudmonster10 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] Miner0818 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] NikolasLawson left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] ThunderSlayers left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] LMS_3 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] AnonymuosCraft23 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] BlueVsRed12 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] Matta left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] CaptainGuy100 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] ShadowNinja_33 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] XzTwilightPvpzX left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] _iCorruptionMC_ left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] monkeytoes08 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] HaveABadTime left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] Goseale left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] ninjagirl948 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] DannySCM left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] TrueMetaKnight left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] Kraft__Lawrence left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] AnulSpanking left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] ThomasYoussef03 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] Blademystic left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] PHP7 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] RiZe_NoVaYT left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] DarkManiac5201 left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] ILOVECHEETOS left the game.
+[15:34:26] [Client thread/INFO]: [CHAT] Pixel_King22 left the game.
+[15:34:29] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [STA]: It's not fixed yet
+[15:34:40] [Client thread/INFO]: [CHAT] [STA] <JimmyTDG> ?
+[15:34:40] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: wtf just happened
+[15:34:40] [Client thread/INFO]: [CHAT] [STA] <JimmyTDG> what the
+[15:34:40] [Client thread/INFO]: [CHAT] [SA] <CodFish48> whats the issue
+[15:34:40] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: The server is lagged to shit right now.
+[15:34:45] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [STA]: well restart it
+[15:34:46] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: rrj is still here?
+[15:35:02] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [STA]: He is already supered
+[15:35:02] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: I feel the lag.
+[15:35:08] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: I have no lag?
+[15:35:25] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [Console]: any seniors on telnet?
+[15:35:25] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: I believe someone may have setup a lag machine.
+[15:35:27] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [Console]: We need a flatlands wipe
+[15:35:27] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: Could we clear fatlands?
+[15:35:44] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: Flatlands*
+[15:35:44] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: Well I may be getting attacked or something.
+[15:35:44] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [Console]: windows
+[15:35:44] [Client thread/INFO]: [CHAT] [ADMIN] _Windows [Console]: hi
+[15:35:45] [Client thread/INFO]: [CHAT] Invalid material: redstone
+[15:35:46] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [Console]: flatlands wipe
+[15:35:52] [Client thread/INFO]: [CHAT] [ADMIN] _Windows [Console]: why?
+[15:35:52] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [Console]: The server is dying
+[15:36:05] [Client thread/INFO]: [CHAT] [ADMIN] _Windows [Console]: from what?
+[15:36:05] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: I vote flatlands wipe.
+[15:36:05] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [Console]: Firework lag
+[15:36:05] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [Console]: it is lagging all clients
+[15:36:05] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: It's lagging the server.
+[15:36:09] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: Shitty trolls being shit suckers.
+[15:36:26] [Client thread/INFO]: [CHAT] [ADMIN] _Windows [Console]: so a lag machine... i can fix it
+[15:36:26] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: To SHIT.
+[15:36:26] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: It might be, we dont know.
+[15:36:26] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: I dont have any lag.
+[15:36:26] [Client thread/INFO]: [CHAT] _Windows is a Senior Admin
+[15:36:26] [Client thread/INFO]: [CHAT] _Windows joined the game
+[15:36:27] [Client thread/INFO]: [CHAT] Welcome _Windows to the server!
+[15:37:09] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:37:09] [Server Connector #24/ERROR]: Couldn't connect to server
+java.net.UnknownHostException: play.totalfreedom.me
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[?:1.8.0_25]
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:907) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1302) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1255) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1171) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1105) ~[?:1.8.0_25]
+	at java.net.InetAddress.getByName(InetAddress.java:1055) ~[?:1.8.0_25]
+	at bei$1.run(SourceFile:58) [1.9.jar:?]
+[15:37:15] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:37:15] [Server Connector #25/ERROR]: Couldn't connect to server
+java.net.UnknownHostException: play.totalfreedom.me
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1259) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1171) ~[?:1.8.0_25]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1105) ~[?:1.8.0_25]
+	at java.net.InetAddress.getByName(InetAddress.java:1055) ~[?:1.8.0_25]
+	at bei$1.run(SourceFile:58) [1.9.jar:?]
+[15:37:30] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:37:31] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[15:37:31] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[15:37:31] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[15:37:31] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[15:37:31] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[15:37:31] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they値l be lost.
+[15:37:31] [Client thread/INFO]: [CHAT] You have no new mail.
+[15:37:32] [Client thread/INFO]: [CHAT] Server is currently closed to non-superadmins.
+[15:37:32] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [Console]: Doesn't that load entities?
+[15:37:41] [Client thread/INFO]: [CHAT] JimmyTDG is a Telnet Admin
+[15:37:41] [Client thread/INFO]: [CHAT] JimmyTDG joined the game
+[15:37:41] [Client thread/INFO]: [CHAT] [ADMIN] _Windows [SrA]: also I have a very very powerful PC
+[15:37:41] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: I'm getting attacked with like a DDOS.
+[15:38:08] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: Hmm, this is a fucking schematic.
+[15:38:08] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [STA]: we can delete
+[15:38:08] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [STA]: schems
+[15:38:08] [Client thread/INFO]: [CHAT] rrj112 left the game.
+[15:38:08] [Client thread/INFO]: [CHAT] [ADMIN] _Windows [SrA]: firework lag machines kill FPS like mad
+[15:38:08] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: I am feeling shitloads of lag.
+[15:38:09] [Client thread/INFO]: [CHAT] [ADMIN] _Windows [SrA]: >_>
+[15:38:09] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: I will do it.
+[15:38:09] [Client thread/INFO]: [CHAT] StevenNL2000 - Opening the server to all players.
+[15:39:00] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:39:15] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:39:31] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[15:39:31] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[15:39:32] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[15:39:32] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[15:39:32] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[15:39:32] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they値l be lost.
+[15:39:32] [Client thread/INFO]: [CHAT] You have no new mail.
+[15:39:32] [Client thread/INFO]: [CHAT] [SrA] <_Windows> The lag machine is dead
+[15:39:32] [Client thread/INFO]: [CHAT] <mcantwell2u> I accidently had my nuker on
+[15:39:32] [Client thread/INFO]: [CHAT] Goseale joined the game
+[15:39:32] [Client thread/INFO]: [CHAT] my_rih_nu joined the game
+[15:39:32] [Client thread/INFO]: [CHAT] Welcome my_rih_nu to the server!
+[15:39:32] [Client thread/INFO]: [CHAT] Pixel_King22 joined the game
+[15:39:32] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: I dont care, we told them to not spawn fireworks.
+[15:39:32] [Client thread/INFO]: [CHAT] StevenNL2000 - Opping all players on the server
+[15:39:32] [Client thread/INFO]: [CHAT] You are now op!
+[15:39:33] [Client thread/INFO]: [CHAT] <my_rih_nu> hey
+[15:39:37] [Client thread/INFO]: [CHAT] Pixel_King22 left the game.
+[15:39:40] [Client thread/INFO]: [CHAT] AnonymuosCraft23 - Opping ThomasYoussef03
+[15:39:40] [Client thread/INFO]: [CHAT] [TotalFreedom] Somebody breaking the rules? Report it! /report <user> <reason>
+[15:39:54] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: Help
+[15:40:23] [Client thread/INFO]: [CHAT] Pixel_King22 joined the game
+[15:40:33] [Client thread/INFO]: [CHAT] Teleporting...
+[15:40:33] [Client thread/INFO]: [CHAT] JimmyTDG - Setting everyone's Worldedit block modification limit to 2500.
+[15:40:33] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: better?
+[15:40:33] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: Lagstorms are attacking me!
+[15:40:33] [Client thread/INFO]: [CHAT] AnonymuosCraft23 has been a naughty, naughty boy.
+[15:40:33] [Client thread/INFO]: [CHAT] AnonymuosCraft23 died
+[15:40:33] [Client thread/INFO]: [CHAT] [ADMIN] CodFish48 [SA]: I added 2 new trees and some texture to the grass at the adminworld highway enterance
+[15:40:33] [Client thread/INFO]: [CHAT] [ADMIN] StevenNL2000 [STA]: Have you tried restarting your game?
+[15:40:33] [Client thread/INFO]: [CHAT] < BlueVsRed> it'd be nice to have a seperate world for trusted members of TF
+[15:40:33] [Client thread/INFO]: [CHAT] [Server:ElementalDreamer] Stop trying to set his skin.
+[15:41:21] [Client thread/INFO]: Connecting to play.totalfreedom.me, 25565
+[15:41:23] [Server Connector #29/ERROR]: Couldn't connect to server
+java.net.ConnectException: Connection refused: no further information: play.totalfreedom.me/64.34.190.101:25565
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_25]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716) ~[?:1.8.0_25]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:208) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:287) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:528) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_25]
+[15:41:31] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
+[15:41:32] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
+[15:41:32] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[15:42:27] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[15:42:27] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[15:42:28] [Client thread/INFO]: [CHAT] Do NOT open any books given to you by other players or you might be perm banned.
+[15:42:28] [Client thread/INFO]: [CHAT] Remember to save your builds with World Edit or they値l be lost.
+[15:42:28] [Client thread/INFO]: [CHAT] You have no new mail.
+[15:42:28] [Client thread/INFO]: [CHAT] < Hydra> ImADerpGamer
+[15:42:28] [Client thread/INFO]: [CHAT] ThomasYoussef03 - Opping AnonymuosCraft23
+[15:42:28] [Client thread/INFO]: [CHAT] <PHP7> LOL! /mail send HaveABadTime Have a bad Time.
+[15:42:28] [Client thread/INFO]: [CHAT] < Hydra> can i help
+[15:42:28] [Client thread/INFO]: [CHAT] <ImADerpGamer> yeah?
+[15:42:28] [Client thread/INFO]: [CHAT] <SpaceVoyager> why is ther a new spawn like every ten minutes? xD
+[15:42:28] [Client thread/INFO]: [CHAT] [Server:ElementalDreamer] PHP7 you realised, he isnt coming back right?
+[15:42:28] [Client thread/INFO]: [CHAT] ninjagirl948 joined the game
+[15:42:28] [Client thread/INFO]: [CHAT] <ImADerpGamer> sure
+[15:42:28] [Client thread/INFO]: [CHAT] <PHP7> Oh
+[15:42:28] [Client thread/INFO]: [CHAT] <my_rih_nu> PHP7
+[15:42:28] [Client thread/INFO]: [CHAT] [ADMIN] CodFish48 [SA]: Im hitting 1500 fps
+[15:42:28] [Client thread/INFO]: [CHAT] <SpaceVoyager> t
+[15:42:28] [Client thread/INFO]: [CHAT] <PHP7> .-.
+[15:42:28] [Client thread/INFO]: [CHAT] <SpaceVoyager> why is ther a new spawn like every ten minutes? xD
+[15:42:28] [Client thread/INFO]: [CHAT] [SA] < FaZeMelon> SpaceVoyager its mostly because of griefers and scrubs.
+[15:42:28] [Client thread/INFO]: [CHAT] < ninjagirl948> hello!
+[15:42:28] [Client thread/INFO]: [CHAT] < Hydra> Nice start
+[15:42:28] [Client thread/INFO]: [CHAT] [ADMIN] BanterousSor [SA]: who's not coming back
+[15:42:28] [Client thread/INFO]: [CHAT] NoobCanixNew left the game.
+[15:42:28] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [STA]: _Windows what are your specs
+[15:42:28] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [STA]: to not lag to death
+[15:42:28] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: The shitty scrub who lag machined
+[15:42:28] [Client thread/INFO]: [CHAT] <my_rih_nu> PHP7 what is the status of your cleint
+[15:42:28] [Client thread/INFO]: [CHAT] laylabug joined the game
+[15:42:28] [Client thread/INFO]: [CHAT] Welcome laylabug to the server!
+[15:42:28] [Client thread/INFO]: [CHAT] <my_rih_nu> client
+[15:42:28] [Client thread/INFO]: [CHAT] DarkManiac5201 joined the game
+[15:42:28] [Client thread/INFO]: [CHAT] StevenNL2000 - Opping all players on the server
+[15:42:28] [Client thread/INFO]: [CHAT] You are now op!
+[15:42:28] [Client thread/INFO]: [CHAT] ElementalDreamer - Setting everyone's Worldedit block modification limit to 2500.
+[15:42:28] [Client thread/INFO]: [CHAT] ShadowNinja_33 joined the game
+[15:42:28] [Client thread/INFO]: [CHAT] Welcome ShadowNinja_33 to the server!
+[15:42:28] [Client thread/INFO]: [CHAT] Superguy121 joined the game
+[15:42:28] [Client thread/INFO]: [CHAT] <PHP7> I am dropping it, It's all obsufcated with 1.9
+[15:42:28] [Client thread/INFO]: [CHAT] [ADMIN] _Windows [SrA]: WorldEdit: HaveABadTime (in "flatlands"): load yolo
+[15:42:29] [Client thread/INFO]: [CHAT] <PHP7> 100+ erros
+[15:42:29] [Client thread/INFO]: [CHAT] <Superguy121> who has a realm
+[15:42:29] [Client thread/INFO]: [CHAT] <my_rih_nu> FUCK
+[15:42:32] [Client thread/INFO]: [CHAT] <PHP7> errors*
+[15:42:59] [Client thread/INFO]: [CHAT] <PHP7> 1000+
+[15:42:59] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: Lemme go delete it.
+[15:42:59] [Client thread/INFO]: [CHAT] < Neptune> ?
+[15:42:59] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [STA]: yolo has been deleted.
+[15:42:59] [Client thread/INFO]: [CHAT] < ninjagirl948> .
+[15:42:59] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [STA]: :)
+[15:42:59] [Client thread/INFO]: [CHAT] <my_rih_nu> i was excited for it
+[15:42:59] [Client thread/INFO]: [CHAT] BanterousSor - Cleaning all nicknames
+[15:42:59] [Client thread/INFO]: [CHAT] <PHP7> ;-;
+[15:42:59] [Client thread/INFO]: [CHAT] <Superguy121> who has a realm?
+[15:42:59] [Client thread/INFO]: [CHAT] <SpaceVoyager> ?
+[15:42:59] [Client thread/INFO]: [CHAT] AnonymuosCraft23 was slain by DarkManiac5201
+[15:42:59] [Client thread/INFO]: [CHAT] < ninjagirl948> ...
+[15:42:59] [Client thread/INFO]: [CHAT] <PHP7> I will revive it
+[15:42:59] [Client thread/INFO]: [CHAT] <PHP7> Well, try
+[15:43:12] [Client thread/INFO]: [CHAT] <my_rih_nu> change your thing on your github then
+[15:43:12] [Client thread/INFO]: [CHAT] <Superguy121> who has a realm
+[15:43:12] [Client thread/INFO]: [CHAT] < Space> xD
+[15:43:12] [Client thread/INFO]: [CHAT] DarkManiac5201 has been a naughty, naughty boy.
+[15:43:12] [Client thread/INFO]: [CHAT] DarkManiac5201 died
+[15:43:12] [Client thread/INFO]: [CHAT] jmm1121 joined the game
+[15:43:12] [Client thread/INFO]: [CHAT] [Server:StevenNL2000] Don't PvP in creativ
+[15:43:12] [Client thread/INFO]: [CHAT] <my_rih_nu> i hd my hopes up
+[15:43:13] [Client thread/INFO]: [CHAT] [Server:StevenNL2000] *creative
+[15:43:13] [Client thread/INFO]: [CHAT] Momoishappy joined the game
+[15:43:13] [Client thread/INFO]: [CHAT] Welcome Momoishappy to the server!
+[15:43:15] [Client thread/INFO]: [CHAT] < BlueVsRed> ImADerpGamer, can I help out?
+[15:43:30] [Client thread/INFO]: [CHAT] StevenNL2000 - Opping all players on the server
+[15:43:30] [Client thread/INFO]: [CHAT] You are now op!
+[15:43:30] [Client thread/INFO]: [CHAT] <Superguy121> who has a realm?
+[15:43:30] [Client thread/INFO]: [CHAT] < Neptune> i didnt
+[15:43:30] [Client thread/INFO]: [CHAT] <PHP7> my_rih_nu i will REVIVE IT :D
+[15:43:30] [Client thread/INFO]: [CHAT] < Neptune> pvp in gmc
+[15:43:30] [Client thread/INFO]: [CHAT] duckie101 joined the game
+[15:43:30] [Client thread/INFO]: [CHAT] Welcome  doggie to the server!
+[15:43:30] [Client thread/INFO]: [CHAT] [ADMIN] BanterousSor [SA]: s
+[15:43:30] [Client thread/INFO]: [CHAT] <my_rih_nu> PLZ
+[15:43:30] [Client thread/INFO]: [CHAT] < Neptune> ./godmode
+[15:43:30] [Client thread/INFO]: [CHAT] < Space> how do i get money?
+[15:43:31] [Client thread/INFO]: [CHAT] < Neptune> ?
+[15:43:33] [Client thread/INFO]: [CHAT] < doggie> wassug my bitches!
+[15:43:33] [Client thread/INFO]: [CHAT] BanterousSor - Opping all players on the server
+[15:43:33] [Client thread/INFO]: [CHAT] You are now op!
+[15:43:53] [Client thread/INFO]: [CHAT] <ImADerpGamer> do not
+[15:43:53] [Client thread/INFO]: [CHAT] [ADMIN] _Windows [SrA]: some trolls like to hint at their trolling with their names ive noticed
+[15:43:53] [Client thread/INFO]: [CHAT] CodFish48 left the game.
+[15:43:53] [Client thread/INFO]: [CHAT] AnonymuosCraft23 - Opping _Windows
+[15:43:53] [Client thread/INFO]: [CHAT] [ADMIN] BanterousSor [SA]: They do
+[15:43:53] [Client thread/INFO]: [CHAT] <PHP7> Now, i see people LIKE it, I will do my best
+[15:43:53] [Client thread/INFO]: [CHAT] <PHP7> ;O
+[15:43:53] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [STA]: ImADerpGamer doesn't
+[15:43:53] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [STA]: lol
+[15:44:11] [Client thread/INFO]: [CHAT] [ADMIN] BanterousSor [SA]: they do.
+[15:44:11] [Client thread/INFO]: [CHAT] <PHP7> Off to fixing!
+[15:44:11] [Client thread/INFO]: [CHAT] PHP7 left the game.
+[15:44:11] [Client thread/INFO]: [CHAT] < Hydra> o
+[15:44:37] [Client thread/INFO]: [CHAT] <Superguy121> anybody have a realm
+[15:44:37] [Client thread/INFO]: [CHAT] < TYTheBeast> lag
+[15:44:37] [Client thread/INFO]: [CHAT] [ADMIN] BanterousSor [SA]: some guy called trollface09 was smitted by me alot yesterday
+[15:44:37] [Client thread/INFO]: [CHAT] < TYTheBeast> the lag is real
+[15:44:37] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [STA]: I mean if someone named themselves troll
+[15:44:37] [Client thread/INFO]: [CHAT] [ADMIN] _Windows [SrA]: well one time I banned someone named TrollTime for world edit trolling
+[15:44:37] [Client thread/INFO]: [CHAT] <my_rih_nu> no really
+[15:44:37] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [STA]: half the time they do nothing.
+[15:44:37] [Client thread/INFO]: [CHAT] [SA] < FaZeMelon> gfkld;'s
