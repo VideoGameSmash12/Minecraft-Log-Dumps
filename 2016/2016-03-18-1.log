@@ -1,3 +1,13 @@
+[17:27:04] [Client thread/INFO]: Setting user: VideoGameSmash12
+[17:27:04] [Client thread/INFO]: (Session ID is token:dfa35026cb0741e7a3627bd8c09bd0a5:c3bca952cff34ea58ff589b273b4fbfc)
+[17:27:14] [Client thread/INFO]: LWJGL Version: 2.9.4
+[17:27:17] [Client thread/INFO]: Reloading ResourceManager: Default
+[17:29:17] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:29:17] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[17:29:17] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:29:17] [Thread-5/INFO]: OpenAL initialized.
+[17:29:17] [Sound Library Loader/INFO]: Sound engine started
+[17:29:36] [Client thread/INFO]: Created: 1024x512 textures-atlas
 [17:30:01] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
 [17:30:09] [Client thread/INFO]: [CHAT] VideoGameSmash12 is a Telnet Admin
 [17:30:09] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
@@ -1231,41 +1241,6 @@
 [17:48:51] [Client thread/INFO]: [CHAT] Mad_Scientist_01 - Opping firestorm2014
 [17:48:51] [Client thread/INFO]: [CHAT] xX_SnorlaxGod_Xx: /r xx_snorlaxgod_xx
 [17:48:51] [Client thread/INFO]: [CHAT] [ADMIN] ElementalDreamer [SA]: ddos threats?
-[17:48:51] [Client thread/ERROR]: Item entity 2748 has no item?!
-[17:48:51] [Client thread/ERROR]: Item entity 2758 has no item?!
-[17:48:51] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:51] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:51] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:51] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:51] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:51] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:52] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:53] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:53] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:53] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:53] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:53] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:53] [Client thread/ERROR]: Item entity 2766 has no item?!
-[17:48:53] [Client thread/ERROR]: Item entity 2766 has no item?!
 [17:48:53] [Client thread/INFO]: [CHAT] rochrocky92: //set air
 [17:48:53] [Client thread/INFO]: [CHAT] Pixel_King22: /give Pixel_King22 stick 1 0 {ench:[{id:19,lvl:1000}]}
 [17:48:53] [Client thread/INFO]: [CHAT] PoundedPotato: /r have u seen who Destroyed mah hoose
@@ -1287,8 +1262,6 @@
 [17:49:02] [Client thread/INFO]: [CHAT] NikolasLawson: /me &4Join &1Emoji.com &2We &1Have &3A &5Amazing &6Factions &7Community!
 [17:49:02] [Client thread/INFO]: [CHAT] * NikolasLawson Join Emoji.com We Have A Amazing Factions Community!
 [17:49:02] [Client thread/INFO]: [CHAT] PHP7: /i chest 1
-[17:49:02] [Client thread/ERROR]: Item entity 2829 has no item?!
-[17:49:02] [Client thread/ERROR]: Item entity 2848 has no item?!
 [17:49:04] [Client thread/INFO]: [CHAT] rochrocky92: //set air
 [17:49:05] [Client thread/INFO]: [CHAT] Pixel_King22: /give Pixel_King22 stick 1 0 {ench:[{id:19,lvl:10000}]}
 [17:49:07] [Client thread/INFO]: [CHAT] captainclimber: /speed 10
@@ -1445,13 +1418,7 @@
 [17:50:38] [Client thread/INFO]: [CHAT] Pixel_King22: /give Pixel_King22 diamond_sword 1 0 {ench:[{id:16,lvl:1000000}]}
 [17:50:38] [Client thread/INFO]: [CHAT] xX_SnorlaxGod_Xx: /heal
 [17:50:39] [Client thread/INFO]: [CHAT] [ADMIN] adamvandyck [SrA]: Not sure if mark would want me to
-[17:50:40] [Client thread/ERROR]: Item entity 3123 has no item?!
-[17:50:40] [Client thread/ERROR]: Item entity 3123 has no item?!
-[17:50:40] [Client thread/ERROR]: Item entity 3135 has no item?!
-[17:50:40] [Client thread/ERROR]: Item entity 3152 has no item?!
-[17:50:40] [Client thread/ERROR]: Item entity 3152 has no item?!
 [17:50:41] [Client thread/INFO]: [CHAT] captainclimber: /speed 1
-[17:50:43] [Client thread/ERROR]: Item entity 3184 has no item?!
 [17:50:43] [Client thread/INFO]: [CHAT] OhSnapItsLiv: /tp EnderCreepa2000
 [17:50:44] [Client thread/INFO]: [CHAT] captainclimber: /speed 1
 [17:50:44] [Client thread/INFO]: [CHAT] Mad_Scientist_01: /survival
@@ -1464,7 +1431,6 @@
 [17:50:47] [Client thread/INFO]: [CHAT] [ADMIN] JimmyTDG [STA]: But can you?
 [17:50:48] [Client thread/INFO]: [CHAT] [me ->  Potatoz] Name that player again
 [17:50:48] [Client thread/INFO]: [CHAT] Ethan5018: /tp xX_SnorlaxGod_Xx
-[17:50:49] [Client thread/ERROR]: Item entity 3245 has no item?!
 [17:51:03] [Client thread/INFO]: [CHAT] ericgolde555: /about BukkitTelnet
 [17:51:03] [Client thread/INFO]: [CHAT] Jake_12 left the game.
 [17:51:03] [Client thread/INFO]: [CHAT] <rochrocky92> ban him
@@ -1494,8 +1460,6 @@
 [17:51:04] [Client thread/INFO]: [CHAT] [ADMIN] adamvandyck [SrA]: Ive done it before
 [17:51:05] [Client thread/INFO]: [CHAT] DarkManiac5201: /tp php7
 [17:51:07] [Client thread/INFO]: [CHAT] BerryBlossom: /msg JimmyTDG i will have something like this, but not here okay?
-[17:51:08] [Client thread/ERROR]: Item entity 3320 has no item?!
-[17:51:08] [Client thread/ERROR]: Item entity 3320 has no item?!
 [17:51:08] [Client thread/INFO]: [CHAT] <PHP7> I have that feeling
 [17:51:09] [Client thread/INFO]: [CHAT] Mad_Scientist_01: /creative
 [17:51:09] [Client thread/INFO]: [CHAT] < KenTheDj> mudzkip wt
@@ -1517,9 +1481,6 @@
 [17:51:16] [Client thread/INFO]: [CHAT] That player has no entries stored.
 [17:51:17] [Client thread/INFO]: [CHAT] <XtraProtecter> yes
 [17:51:18] [Client thread/INFO]: [CHAT] Spipuppy: /warp
-[17:51:19] [Client thread/ERROR]: Item entity 3339 has no item?!
-[17:51:20] [Client thread/ERROR]: Item entity 3363 has no item?!
-[17:51:20] [Client thread/ERROR]: Item entity 3372 has no item?!
 [17:51:20] [Client thread/INFO]: [CHAT] Spipuppy: /warp a
 [17:51:22] [Client thread/INFO]: [CHAT] PHP7, Pixel_King22, PoundedPotato
 [17:51:22] [Client thread/INFO]: [CHAT] PHP7, Pixel_King22, PoundedPotato
@@ -3195,3 +3156,6 @@
 [18:06:22] [Client thread/INFO]: [CHAT] MineCrafting5403: //undo
 [18:06:23] [Client thread/INFO]: [CHAT] Pixel_King22: /give Pixel_King22 bow 1 0 {ench:[{id:48,lvl:1000000}]}
 [18:06:23] [Client thread/INFO]: [CHAT] Sewnadgy: /gamemode 1
+[18:06:40] [Client thread/INFO]: Stopping!
+[18:06:40] [Client thread/INFO]: SoundSystem shutting down...
+[18:06:41] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
