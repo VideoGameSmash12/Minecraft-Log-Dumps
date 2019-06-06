@@ -1,13 +1,3 @@
-[13:09:49] [Client thread/INFO]: Setting user: VideoGameSmash12
-[13:10:07] [Client thread/WARN]: Skipping bad option: lastServer:
-[13:10:07] [Client thread/INFO]: LWJGL Version: 2.9.4
-[13:10:11] [Client thread/INFO]: Reloading ResourceManager: Default, MLGCraft, faithful64pack-v1.4.0.zip
-[13:10:36] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[13:10:37] [Thread-6/INFO]: Initializing LWJGL OpenAL
-[13:10:37] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[13:10:45] [Client thread/INFO]: Created: 2048x1024 textures-atlas
-[13:10:51] [Thread-6/INFO]: OpenAL initialized.
-[13:10:51] [Sound Library Loader/INFO]: Sound engine started
 [13:12:55] [Client thread/INFO]: Connecting to play.totalfreedom.me., 28965
 [13:12:58] [Client thread/INFO]: [CHAT] [BetterChairs] Find new update ! Version: 0.8.2
 [13:12:58] [Client thread/INFO]: [CHAT] [UPDATE]
@@ -1380,7 +1370,6 @@
 [13:43:45] [Client thread/INFO]: [CHAT] X__xDeadPoolx__X: /head
 [13:43:46] [Client thread/INFO]: [CHAT] VenomXStudios: /uc menu main
 [13:43:48] [Client thread/INFO]: [CHAT] Dasher9302012: /tpo jt
-[13:43:48] [Client thread/INFO]: Warning: Clientside chunk ticking took 123 ms
 [13:43:50] [Client thread/INFO]: [CHAT] BornInAFlame - Rolling back player: __sale__
 [13:43:50] [Client thread/INFO]: [CHAT] Youngd: /bal
 [13:43:50] [Client thread/INFO]: [CHAT] Dasher9302012: /tpo jt
@@ -3837,7 +3826,6 @@
 [14:17:43] [Client thread/INFO]: [CHAT] [ADMIN] RyanGamingUK [SA]: NickWilde got it within 5 days
 [14:17:43] [Client thread/INFO]: [CHAT] [ADMIN] Inergivi [SA]: You need one report
 [14:17:44] [Client thread/INFO]: [CHAT] Zephinx joined the game
-[14:17:44] [Client thread/ERROR]: Item entity 2984 has no item?!
 [14:17:47] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> It shows me funny videos of BABIES.
 [14:17:53] [Client thread/INFO]: [CHAT] [ADMIN] BearzRAwesome [STA]: You MUST have at least 1 report with multipal recs
 [14:17:59] [Client thread/INFO]: [CHAT] < barkantiantianti> i hate you you VideoGameSmash12 now
@@ -3883,7 +3871,6 @@
 [14:18:55] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> But YouTubers say they do
 [14:18:57] [Client thread/INFO]: [CHAT] mattlainisaking - Cleared all potion effects from all players
 [14:18:57] [Client thread/INFO]: [CHAT] Manulopz555 got nifed by RageHayes using [§4§lKnightmare]
-[14:18:58] [Client thread/ERROR]: Item entity 3693 has no item?!
 [14:18:58] [Client thread/INFO]: [CHAT] BenBeB0SS was nifed by BadHacks
 [14:19:00] [Client thread/INFO]: [CHAT] [STA] <ShadowArmadyl> I've always not liked to be around small children
 [14:19:03] [Client thread/INFO]: [CHAT] MarsBar450 somehow died
@@ -3956,17 +3943,12 @@
 [14:21:08] [Client thread/INFO]: [CHAT] [Protecters] < RageHayes> really?
 [14:21:08] [Client thread/INFO]: [CHAT] AndrewSch_rocks joined the game
 [14:21:09] [Client thread/INFO]: [CHAT] [Server:Alosion] No gmc/god pvp.
-[14:21:10] [Client thread/ERROR]: Item entity 5720 has no item?!
-[14:21:11] [Client thread/ERROR]: Item entity 5724 has no item?!
 [14:21:13] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: We need to remove UltraCosmetics
 [14:21:14] [Client thread/INFO]: [CHAT] [Super Admin] < BonaFlower> Stop
 [14:21:16] [Client thread/INFO]: [CHAT] [ADMIN] BornInAFlame [SA]: Yup
-[14:21:17] [Client thread/ERROR]: Item entity 5824 has no item?!
 [14:21:19] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: the OPs love it, but the problem is
 [14:21:20] [Client thread/INFO]: [CHAT] < iiijtiii> eveyone tp
-[14:21:21] [Client thread/ERROR]: Item entity 5886 has no item?!
 [14:21:21] [Client thread/INFO]: [CHAT] < VCellX> get ouy
-[14:21:23] [Client thread/ERROR]: Item entity 5918 has no item?!
 [14:21:23] [Client thread/INFO]: [CHAT] < iiijtiii> everyone tp
 [14:21:25] [Client thread/INFO]: [CHAT] <SuperCaitlin> Fuck You
 [14:21:26] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: it's fucking the server in every hole possible.
@@ -7007,7 +6989,6 @@
 [15:23:47] [Client thread/INFO]: [CHAT] xNyanPanda is a Telnet Admin
 [15:23:47] [Client thread/INFO]: [CHAT] xNyanPanda joined the game
 [15:23:47] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: oh my god
-[15:23:47] [Client thread/ERROR]: Item entity 885 has no item?!
 [15:23:47] [Client thread/INFO]: [CHAT] Environment was killed trying to hurt Velkayne
 [15:23:47] [Client thread/INFO]: [CHAT] [Server:Inergivi] Adv. once per ten minuites
 [15:23:48] [Client thread/INFO]: [CHAT] DarkFlareMC left the game.
@@ -7065,7 +7046,6 @@
 [15:25:12] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: lol
 [15:25:12] [Client thread/INFO]: [CHAT] Inergivi - Tempbanning: EliyelhdzPlaysYT for 5 minutes.
 [15:25:12] [Client thread/INFO]: [CHAT] EliyelhdzPlaysYT left the game.
-[15:25:12] [Client thread/ERROR]: Item entity 1003 has no item?!
 [15:25:13] [Client thread/INFO]: [CHAT] <Manulopz555> wat
 [15:25:14] [Client thread/INFO]: [CHAT] X__xDeadPoolx__X joined the game
 [15:25:14] [Client thread/INFO]: [CHAT] Gamemode set to spectator.
@@ -7112,7 +7092,6 @@
 [15:25:51] [Client thread/INFO]: [CHAT] OmegaBrineX303: /gms
 [15:25:52] [Client thread/INFO]: [CHAT] <1jayman1> tp to me for op potions
 [15:25:52] [Client thread/INFO]: [CHAT] fire_herobrine: /speed 10
-[15:25:52] [Client thread/ERROR]: Item entity 1024 has no item?!
 [15:25:53] [Client thread/INFO]: [CHAT] mullet32: /i diamond_axe 1 sharpness:100000000000
 [15:25:54] [Client thread/INFO]: [CHAT] fireSHARK365: /creative
 [15:25:55] [Client thread/INFO]: [CHAT] pvpmaster12351: /disguise player
@@ -7733,7 +7712,6 @@
 [15:34:20] [Client thread/INFO]: [CHAT] Banning: fire_herobrine, IP: 190.225.*.* - Reason: The heroes have won the day! - Grief
 [15:34:20] [Client thread/INFO]: [CHAT] fire_herobrine left the game.
 [15:34:20] [Client thread/INFO]: [CHAT] Dasher9302012: /tpo jt
-[15:34:21] [Client thread/ERROR]: Item entity 1836 has no item?!
 [15:34:21] [Client thread/INFO]: [CHAT] WrestlingRabit: /speed
 [15:34:22] [Client thread/INFO]: [CHAT] KingBacons: /nickname DonaldTrump
 [15:34:23] [Client thread/INFO]: [CHAT] MrBucket: /gmc
@@ -10244,7 +10222,6 @@
 [16:03:17] [Client thread/INFO]: [CHAT] Doctor_Chicken: /d shulker
 [16:03:18] [Client thread/INFO]: [CHAT] MegaDragonBro13: /whois Lightning_Splash
 [16:03:18] [Client thread/INFO]: [CHAT] DarkFlareMC: /disguise dragon_fireball
-[16:03:19] [Client thread/INFO]: Warning: Clientside chunk ticking took 278 ms
 [16:03:22] [Client thread/INFO]: [CHAT] <X__xDeadPoolx__X> im sry
 [16:03:22] [Client thread/INFO]: [CHAT] < MegaDragonBro13> Lightning_Splash gmc pvp
 [16:03:25] [Client thread/INFO]: [CHAT] MrTechno: /potion clear
@@ -11148,8 +11125,6 @@
 [16:14:46] [Client thread/INFO]: [CHAT] KidZ0W33: /op
 [16:14:46] [Client thread/INFO]: [CHAT] TheGodlyCreeper: /nick &4&n&o&kgkjjsjgj
 [16:14:46] [Client thread/INFO]: [CHAT] MegaDragonBro13: /spawn
-[16:14:48] [Client thread/ERROR]: Item entity 6143 has no item?!
-[16:14:48] [Client thread/ERROR]: Item entity 6143 has no item?!
 [16:14:49] [Client thread/INFO]: [CHAT] [ADMIN] adamvandyck [SrA]: hehehe xD
 [16:14:50] [Client thread/INFO]: [CHAT] DarkFlareMC: /pl
 [16:14:51] [Client thread/INFO]: [CHAT] KidZ0W33: /op KidZ0W44
@@ -11245,8 +11220,6 @@
 [16:16:07] [Client thread/INFO]: [CHAT] Manulopz555: /creative
 [16:16:08] [Client thread/INFO]: [CHAT] Youngd: /d minecraft_chest
 [16:16:08] [Client thread/INFO]: [CHAT] <jeremy059> he has sharp 3200000
-[16:16:08] [Client thread/ERROR]: Item entity 6253 has no item?!
-[16:16:08] [Client thread/ERROR]: Item entity 6253 has no item?!
 [16:16:09] [Client thread/INFO]: [CHAT] X__xDeadPoolx__X: /
 [16:16:10] [Client thread/INFO]: [CHAT] RageHayes: /i shield 1
 [16:16:11] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: "I want Ender to go 'Lol' in my Zeh"
@@ -11370,7 +11343,6 @@
 [16:24:13] [Client thread/INFO]: [CHAT] smolmark is smol super admin
 [16:24:13] [Client thread/INFO]: [CHAT] smolmark joined the game
 [16:24:15] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: lol
-[16:24:15] [Client thread/INFO]: Warning: Clientside chunk ticking took 560 ms
 [16:24:15] [Client thread/INFO]: [CHAT] < jdahghsdhggggggggggggggg> fine
 [16:24:24] [Client thread/INFO]: [CHAT] Teleporting...
 [16:24:25] [Client thread/INFO]: [CHAT] [SA] <smolmark> bo
@@ -11646,7 +11618,6 @@
 [16:34:44] [Client thread/INFO]: [CHAT] Dragonfire147: //wand
 [16:34:45] [Client thread/INFO]: [CHAT] [ADMIN] neroblackcat [STA]: dont worry fams
 [16:34:49] [Client thread/INFO]: [CHAT] 227456adam: /u
-[16:34:50] [Client thread/ERROR]: Item entity 911 has no item?!
 [16:34:51] [Client thread/INFO]: [CHAT] Ryelow: /spawn
 [16:34:51] [Client thread/INFO]: [CHAT] [STA] <VideoGameSmash12> we've needed the plugin for like 2 years
 [16:35:01] [Client thread/INFO]: [CHAT] [ADMIN] smolmark [SA]: hot
@@ -12972,7 +12943,6 @@
 [16:57:02] [Client thread/INFO]: [CHAT] SirPumpkinPickle got nifed by XxBleedingEdgexX using [KILLMADNESS]
 [16:57:02] [Client thread/INFO]: [CHAT] [ADMIN] VideoGameSmash12 [STA]: no
 [16:57:03] [Client thread/INFO]: [CHAT] RageHayes: /gms
-[16:57:03] [Client thread/INFO]: Warning: Clientside chunk ticking took 265 ms
 [16:57:05] [Client thread/INFO]: [CHAT] CommissionerJoe is a Telnet Admin and a Ariana Grande fan!
 [16:57:05] [Client thread/INFO]: [CHAT] CommissionerJoe joined the game
 [16:57:07] [Client thread/INFO]: [CHAT] <MicroMouseG> dude
@@ -13635,7 +13605,6 @@
 [17:05:10] [Client thread/INFO]: [CHAT] jazz108 got rekt by MegaDragonBro13 using [§6Intervention]
 [17:05:11] [Client thread/INFO]: [CHAT] xViqtory: /i diamond_sword 1 sharpness:32000
 [17:05:11] [Client thread/INFO]: [CHAT] <JawaDan> stop it
-[17:05:11] [Client thread/ERROR]: Item entity 2671 has no item?!
 [17:05:12] [Client thread/INFO]: [CHAT] <MicroMouseG> gmc or god pvp xViqtory
 [17:05:13] [Client thread/INFO]: [CHAT] XxBleedingEdgexX: /disguise skeleton
 [17:05:13] [Client thread/INFO]: [CHAT] [Protectors] < MegaDragonBro13> ez
@@ -15303,7 +15272,6 @@
 [17:32:40] [Client thread/INFO]: [CHAT] [ADMIN] CreeperSeth [SA]: that is one glitchy piston
 [17:32:40] [Client thread/INFO]: [CHAT] TheNewHorizon got nifed by Ssu using [Dead]
 [17:32:49] [Client thread/INFO]: [CHAT] <cadenrock> ccooll why did you just randomly teleport to me
-[17:32:50] [Client thread/ERROR]: Item entity 4796 has no item?!
 [17:32:55] [Client thread/INFO]: [CHAT] <ccooll> idk
 [17:32:56] [Client thread/INFO]: [CHAT] TheNewHorizon got nifed by Ssu using [Dead]
 [17:33:13] [Client thread/INFO]: [CHAT] [Super Admin] < BonaFlower> w
