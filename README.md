@@ -1,2 +1,7 @@
-# TF-Log-Dumps
-A dump of TF's logs, ripped from my Minecraft client. They contain various adminchat conversations and more. I have organized them by year.
+# TotalFreedom Log Dumps
+
+## Introduction
+**TotalFreedom Log Dumps**, formerly known as TF-Log-Dumps, is a project that is aimed to archive logs of the TotalFreedom Minecraft server by extracting logs from Minecraft client sessions.
+
+## Where do they come from?
+The logs come from installations of Minecraft that I've used over the years. Most of the time they're from backups of the past.
