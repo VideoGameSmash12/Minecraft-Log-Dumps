@@ -305,13 +305,6 @@
 [02:32:19] [Client thread/INFO]: [CHAT] westy454 left the game.
 [02:32:26] [Client thread/INFO]: [CHAT] < Bum> cya guys
 [02:32:29] [Client thread/INFO]: [CHAT] sethy13 left the game.
-[02:33:08] [Client thread/ERROR]: Item entity 1283 has no item?!
-[02:33:08] [Client thread/ERROR]: Item entity 1283 has no item?!
-[02:33:08] [Client thread/ERROR]: Item entity 1283 has no item?!
-[02:33:08] [Client thread/ERROR]: Item entity 1283 has no item?!
-[02:33:08] [Client thread/ERROR]: Item entity 1283 has no item?!
-[02:33:08] [Client thread/ERROR]: Item entity 1283 has no item?!
-[02:33:08] [Client thread/ERROR]: Item entity 1283 has no item?!
 [02:33:10] [Client thread/INFO]: [CHAT] <Bhushan> Ouch|
 [02:33:13] [Client thread/INFO]: [CHAT] <jonnyclarck> bazzLa, tp
 [02:33:22] [Client thread/INFO]: [CHAT] <bazzLa> Not now
@@ -690,7 +683,6 @@
 [02:47:28] [Client thread/INFO]: [CHAT] <[BazzLa's_Helper] Bhushan> Np.
 [02:47:28] [Client thread/INFO]: [CHAT] Second position set to (191.0, 50.0, 131.0) (25).
 [02:47:30] [Client thread/INFO]: [CHAT] 25 block(s) have been replaced.
-[02:47:30] [Client thread/INFO]: Warning: Clientside chunk ticking took 181 ms
 [02:47:38] [Client thread/INFO]: [CHAT] <bazzLa> Don't constently shoot at them bhush
 [02:47:38] [Client thread/INFO]: [CHAT] <[BazzLa's_Helper] Bhushan> ...
 [02:47:40] [Client thread/INFO]: [CHAT] bazzLa - Opping all players on the server
@@ -724,4 +716,3 @@
 [02:48:21] [Client thread/INFO]: [CHAT] <DetectiveButter> aw op me
 [02:48:22] [Client thread/INFO]: [CHAT] <hloy> yaya
 [02:48:23] [Client thread/INFO]: [CHAT] Bhushan - Opping Uparial
-[02:48:32] [Client thread/INFO]: Stopping!
