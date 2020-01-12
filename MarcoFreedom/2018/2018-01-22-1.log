@@ -1,0 +1,37 @@
+[16:28:32] [Client thread/INFO]: Connecting to marcofreedom.us.to, 25565
+[16:28:33] [Client thread/INFO]: [CHAT] [AsyncWorldEdit] You have an old version of the plugin. Your version: 3.4.10, available version: 3.4.11
+[16:28:33] [Client thread/INFO]: [CHAT] [LibsDisguises] There is a update ready to be downloaded! You are using v9.4.0-SNAPSHOT, the new version is v9.5.0!
+[16:28:33] [Client thread/INFO]: [CHAT] VideoGameSmash12 joined the game
+[16:28:33] [Client thread/INFO]: [CHAT] Welcome, VideoGameSmash12!
+[16:28:33] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[16:28:33] [Client thread/INFO]: [CHAT] Type /list to see who else is online.
+[16:28:33] [Client thread/INFO]: [CHAT] Players online: 1 - World time: 12:00 PM
+[16:28:33] [Client thread/INFO]: [CHAT] You have no new mail.
+[16:28:33] [Client thread/INFO]: [CHAT] [BetterChairs] Find new update ! Version: <!DOCTYPE html>
+[16:28:33] [Client thread/INFO]: [CHAT] [UPDATE]
+[16:28:37] [Client thread/INFO]: [CHAT] ----------------------------------------
+[16:28:37] [Client thread/INFO]: [CHAT]   SkinsRestorer - v13.1 Admin
+[16:28:37] [Client thread/INFO]: [CHAT]     /sr config - help page for usefull in game config settings
+[16:28:37] [Client thread/INFO]: [CHAT]     /sr set <player> <skin name> - Changes the skin of a player..
+[16:28:37] [Client thread/INFO]: [CHAT]     /sr drop <player> - Drops player skin data.
+[16:28:37] [Client thread/INFO]: [CHAT]     /sr reload - Reloads the config and locale
+[16:28:37] [Client thread/INFO]: [CHAT]     /sr props [player] - Displays the players actual skin as properties
+[16:28:37] [Client thread/INFO]: [CHAT] ----------------------------------------
+[16:28:44] [Client thread/INFO]: [CHAT] Opening the Skins Menu.
+[16:29:25] [Client thread/INFO]: [CHAT] ----------------------------------------
+[16:29:25] [Client thread/INFO]: [CHAT]   SkinsRestorer - v13.1
+[16:29:25] [Client thread/INFO]: [CHAT]     /skin <skinname> - Changes your skin.
+[16:29:25] [Client thread/INFO]: [CHAT]     /sr - Display Admin commands.
+[16:29:25] [Client thread/INFO]: [CHAT] ----------------------------------------
+[16:29:27] [Client thread/INFO]: [CHAT] Your skin has been changed.
+[16:29:30] [Client thread/INFO]: [CHAT] Use the /back command to return to your death point.
+[16:29:30] [Client thread/INFO]: [CHAT] VideoGameSmash12 died
+[16:29:30] [Client thread/INFO]: [CHAT] Goodbye cruel world...
+[16:29:30] [Client thread/INFO]: [CHAT] Player VideoGameSmash12 took their own life.
+[16:29:30] [Client thread/INFO]: [CHAT] [Reaction] Hover for the word to unscramble!
+[16:29:40] [Client thread/INFO]: [CHAT] [Reaction] Nobody got the word in time :(
+[16:29:40] [Client thread/INFO]: [CHAT] The word was militates
+[16:29:50] [Client thread/INFO]: [CHAT] <VideoGameSmash12> ok
+[16:29:54] [Client thread/INFO]: [CHAT] There are 1 out of a maximum 100 players online.
+[16:29:54] [Client thread/INFO]: [CHAT] Connected players: [OP]VideoGameSmash12
+[16:29:56] [Client thread/INFO]: [CHAT] Plugins (32): AsyncWorldEditInjector, CoreProtect, Itemizer, Essentials, Lift, Capatchafy, BetterChairs, PowerNBT, Aero, ChatReaction, SkinsRestorer, BukkitTelnet, AsyncWorldEdit, EpicBalloons, ImageOnMap, Vivecraft-Spigot-Extensions, BlocksHub, PermissionsEx, ViaVersion, Vault, EssentialsSpawn, PlayerParticles, ViaBackwards, WorldEdit, DaedalusMod, ProtocolLib, WorldGuard, LibsDisguises, ItemFixer, DiscoFloor, MarcoFreedomMod, WorldGuardExtraFlags
